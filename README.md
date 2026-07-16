@@ -1,5 +1,7 @@
 # GitHub Codespaces ♥️ React
 
+This project includes a Satisfactory blueprint importer/editor that uses [etothepii4/satisfactory-file-parser](https://github.com/etothepii4/satisfactory-file-parser) by etothepii4. The original parser author deserves explicit credit for the binary blueprint parsing and writing support.
+
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
 
 You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!

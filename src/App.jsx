@@ -216,6 +216,10 @@ function App() {
           <p>Pick the main `.sbp` file and the matching `.sbpcfg` file from the same blueprint export.</p>
         </div>
 
+        <p className="attribution-copy">
+          Blueprint parsing is powered by <a href="https://github.com/etothepii4/satisfactory-file-parser" target="_blank" rel="noreferrer">etothepii4/satisfactory-file-parser</a> by etothepii4.
+        </p>
+
         <label className="file-dropzone">
           <input
             type="file"
