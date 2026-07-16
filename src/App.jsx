@@ -3,10 +3,10 @@ import './App.css';
 import {
   CONVEYOR_TIER_OPTIONS,
   countEditableBlueprintObjects,
+  createDefaultBlueprintConfig,
   getBlueprintStem,
-  getConveyorLabel,
-  getConveyorVariant,
-  updateBlueprintObjectTier,
+  groupEditableBlueprintObjects,
+  updateBlueprintConveyorGroupTier,
 } from './blueprintToolkit';
 
 const downloadBlob = (blob, fileName) => {
@@ -23,68 +23,45 @@ const downloadBlob = (blob, fileName) => {
 };
 
 function App() {
-  const [selectedFiles, setSelectedFiles] = useState([]);
+  const [selectedFile, setSelectedFile] = useState(null);
   const [workingBlueprint, setWorkingBlueprint] = useState(null);
   const [sourceBlueprint, setSourceBlueprint] = useState(null);
-  const [statusMessage, setStatusMessage] = useState('Select an `.sbp` and matching `.sbpcfg` file to begin.');
+  const [descriptionDraft, setDescriptionDraft] = useState('');
+  const [statusMessage, setStatusMessage] = useState('Select an `.sbp` file to begin.');
   const [errorMessage, setErrorMessage] = useState('');
   const [isParsing, setIsParsing] = useState(false);
   const [isExporting, setIsExporting] = useState(false);
 
-  const mainFile = selectedFiles.find((file) => file.name.toLowerCase().endsWith('.sbp')) ?? null;
-  const configFile = selectedFiles.find((file) => file.name.toLowerCase().endsWith('.sbpcfg')) ?? null;
-  const canParse = Boolean(mainFile && configFile);
+  const canParse = Boolean(selectedFile);
 
-  const editableObjects = useMemo(() => {
+  const groupedObjects = useMemo(() => {
     if (!workingBlueprint) {
       return [];
     }
 
-    return workingBlueprint.objects
-      .map((object, index) => {
-        const variant = getConveyorVariant(object.typePath);
-
-        if (!variant) {
-          return null;
-        }
-
-        return {
-          index,
-          object,
-          variant,
-        };
-      })
-      .filter(Boolean);
+    return groupEditableBlueprintObjects(workingBlueprint);
   }, [workingBlueprint]);
 
-  const beltCount = editableObjects.filter((entry) => entry.variant.family === 'belt').length;
-  const liftCount = editableObjects.filter((entry) => entry.variant.family === 'lift').length;
+  const beltCount = groupedObjects.filter((entry) => entry.family === 'belt').reduce((total, entry) => total + entry.count, 0);
+  const liftCount = groupedObjects.filter((entry) => entry.family === 'lift').reduce((total, entry) => total + entry.count, 0);
   const changedCount = useMemo(() => {
     if (!workingBlueprint || !sourceBlueprint) {
       return 0;
     }
 
-    return editableObjects.filter(({ index, object }) => sourceBlueprint.objects[index]?.typePath !== object.typePath).length;
-  }, [editableObjects, sourceBlueprint, workingBlueprint]);
+    return workingBlueprint.objects.filter((object, index) => sourceBlueprint.objects[index]?.typePath !== object.typePath).length;
+  }, [sourceBlueprint, workingBlueprint]);
 
   const handleFileSelection = (event) => {
-    const nextFiles = Array.from(event.target.files ?? []);
-    setSelectedFiles(nextFiles);
+    const nextFile = Array.from(event.target.files ?? []).find((file) => file.name.toLowerCase().endsWith('.sbp')) ?? null;
+    setSelectedFile(nextFile);
     setErrorMessage('');
-    setStatusMessage(nextFiles.length ? 'Files selected. Parse to inspect editable conveyor tiers.' : 'Select an `.sbp` and matching `.sbpcfg` file to begin.');
+    setStatusMessage(nextFile ? 'Blueprint selected. Parse to inspect editable conveyor tiers.' : 'Select an `.sbp` file to begin.');
   };
 
   const handleParse = async () => {
-    if (!canParse || !mainFile || !configFile) {
-      setErrorMessage('Choose both the `.sbp` blueprint file and the paired `.sbpcfg` config file.');
-      return;
-    }
-
-    const mainStem = getBlueprintStem(mainFile.name);
-    const configStem = getBlueprintStem(configFile.name);
-
-    if (mainStem !== configStem) {
-      setErrorMessage('The `.sbp` and `.sbpcfg` filenames must share the same base name.');
+    if (!canParse || !selectedFile) {
+      setErrorMessage('Choose a `.sbp` blueprint file first.');
       return;
     }
 
@@ -92,24 +69,27 @@ function App() {
     setErrorMessage('');
 
     try {
-      const [mainBuffer, configBuffer, parserModule] = await Promise.all([
-        mainFile.arrayBuffer(),
-        configFile.arrayBuffer(),
+      const [mainBuffer, parserModule] = await Promise.all([
+        selectedFile.arrayBuffer(),
         import('@etothepii/satisfactory-file-parser'),
       ]);
 
-      const { Parser } = parserModule;
-      const parsedBlueprint = Parser.ParseBlueprintFiles(mainStem, mainBuffer, configBuffer, {
+      const { BlueprintConfig, BlueprintConfigWriter, Parser } = parserModule;
+      const configWriter = new BlueprintConfigWriter();
+      BlueprintConfig.Serialize(configWriter, createDefaultBlueprintConfig(descriptionDraft));
+      const configBuffer = configWriter.endWriting();
+      const parsedBlueprint = Parser.ParseBlueprintFiles(getBlueprintStem(selectedFile.name), mainBuffer, configBuffer, {
         throwErrors: true,
       });
 
       setSourceBlueprint(parsedBlueprint);
       setWorkingBlueprint(parsedBlueprint);
+      setDescriptionDraft(parsedBlueprint.config.description ?? '');
       setStatusMessage(`Loaded ${parsedBlueprint.name}. ${countEditableBlueprintObjects(parsedBlueprint)} conveyor and lift objects are editable.`);
     } catch (error) {
       const message = error instanceof Error ? error.message : String(error);
       setErrorMessage(message);
-      setStatusMessage('Parse failed. Fix the file pair or try a different blueprint.');
+      setStatusMessage('Parse failed. Try a different blueprint file.');
       setWorkingBlueprint(null);
       setSourceBlueprint(null);
     } finally {
@@ -117,20 +97,34 @@ function App() {
     }
   };
 
-  const handleTierChange = (objectIndex, family, nextTierValue) => {
-    const nextTier = Number(nextTierValue);
-    const nextVariant = CONVEYOR_TIER_OPTIONS.find((variant) => variant.family === family && variant.tier === nextTier);
-
-    if (!nextVariant) {
-      return;
-    }
+  const handleDescriptionChange = (event) => {
+    const nextDescription = event.target.value;
+    setDescriptionDraft(nextDescription);
 
     setWorkingBlueprint((currentBlueprint) => {
       if (!currentBlueprint) {
         return currentBlueprint;
       }
 
-      return updateBlueprintObjectTier(currentBlueprint, objectIndex, nextVariant);
+      return {
+        ...currentBlueprint,
+        config: {
+          ...currentBlueprint.config,
+          description: nextDescription,
+        },
+      };
+    });
+  };
+
+  const handleTierChange = (family, currentTier, nextTierValue) => {
+    const nextTier = Number(nextTierValue);
+
+    setWorkingBlueprint((currentBlueprint) => {
+      if (!currentBlueprint) {
+        return currentBlueprint;
+      }
+
+      return updateBlueprintConveyorGroupTier(currentBlueprint, family, currentTier, nextTier);
     });
   };
 
@@ -184,23 +178,23 @@ function App() {
       <section className="hero card">
         <div className="hero-copy">
           <p className="eyebrow">Satisfactory blueprint tier editor</p>
-          <h1>Import `.sbp` and `.sbpcfg`, retier conveyors and lifts, then export the pair.</h1>
+          <h1>Import one `.sbp`, retier conveyors and lifts, and export the modified blueprint.</h1>
           <p className="lede">
-            Load a blueprint, inspect every conveyor belt and conveyor lift in the file, change the tier from a dropdown, and write the modified binary files back out.
+            Load a blueprint, inspect grouped conveyor and lift counts, change the tier from a dropdown, and write the modified binary files back out.
           </p>
         </div>
 
         <div className="hero-stats" aria-label="Current blueprint summary">
           <div>
-            <span>Editable objects</span>
-            <strong>{editableObjects.length}</strong>
+            <span>Editable groups</span>
+            <strong>{groupedObjects.length}</strong>
           </div>
           <div>
-            <span>Belt tiers</span>
+            <span>Belts</span>
             <strong>{beltCount}</strong>
           </div>
           <div>
-            <span>Lift tiers</span>
+            <span>Lifts</span>
             <strong>{liftCount}</strong>
           </div>
           <div>
@@ -212,8 +206,8 @@ function App() {
 
       <section className="card upload-panel">
         <div className="panel-copy">
-          <h2>1. Choose the blueprint files</h2>
-          <p>Pick the main `.sbp` file and the matching `.sbpcfg` file from the same blueprint export.</p>
+          <h2>1. Choose the blueprint file</h2>
+          <p>Pick the main `.sbp` file. The app will generate a minimal companion config and let you edit the description in the browser.</p>
         </div>
 
         <p className="attribution-copy">
@@ -223,22 +217,17 @@ function App() {
         <label className="file-dropzone">
           <input
             type="file"
-            accept=".sbp,.sbpcfg"
-            multiple
+            accept=".sbp"
             onChange={handleFileSelection}
           />
-          <span className="dropzone-title">Drop files here or browse</span>
-          <span className="dropzone-subtitle">The app expects exactly one `.sbp` and one `.sbpcfg` file.</span>
+          <span className="dropzone-title">Drop the blueprint here or browse</span>
+          <span className="dropzone-subtitle">Only the `.sbp` file is required.</span>
         </label>
 
         <div className="file-lineup" aria-live="polite">
           <div>
-            <span>Main file</span>
-            <strong>{mainFile ? mainFile.name : 'Not selected'}</strong>
-          </div>
-          <div>
-            <span>Config file</span>
-            <strong>{configFile ? configFile.name : 'Not selected'}</strong>
+            <span>Blueprint file</span>
+            <strong>{selectedFile ? selectedFile.name : 'Not selected'}</strong>
           </div>
         </div>
 
@@ -259,10 +248,8 @@ function App() {
         <section className="card editor-panel">
           <div className="panel-copy panel-copy-spaced">
             <div>
-              <h2>2. Edit conveyor and lift tiers</h2>
-              <p>
-                {workingBlueprint.config.description || 'No blueprint description was stored in the config file.'}
-              </p>
+              <h2>2. Edit the description</h2>
+              <p>This value will be written back into the exported companion config file.</p>
             </div>
             <div className="blueprint-meta">
               <span>Blueprint name</span>
@@ -272,58 +259,56 @@ function App() {
             </div>
           </div>
 
-          {editableObjects.length > 0 ? (
-            <div className="object-list">
-              {editableObjects.map(({ index, object, variant }) => {
-                const originalVariant = sourceBlueprint ? getConveyorVariant(sourceBlueprint.objects[index]?.typePath) : variant;
-                const selectedTier = variant.tier;
+          <label className="description-field">
+            <span>Description</span>
+            <textarea
+              rows="4"
+              value={descriptionDraft}
+              onChange={handleDescriptionChange}
+              placeholder="Write a blueprint description"
+            />
+          </label>
 
-                return (
-                  <article className="object-row" key={`${index}-${object.instanceName}`}>
-                    <div className="object-row__copy">
-                      <div className="object-row__heading">
-                        <strong>{getConveyorLabel(variant)}</strong>
-                        <span>{object.instanceName}</span>
-                      </div>
-                      <p>
-                        {object.typePath}
-                      </p>
-                      <div className="object-row__tags">
-                        <span className="tag">{variant.family === 'belt' ? 'Conveyor Belt' : 'Conveyor Lift'}</span>
-                        {originalVariant && originalVariant.tier !== variant.tier ? (
-                          <span className="tag tag--muted">Was Mk{originalVariant.tier}</span>
-                        ) : (
-                          <span className="tag tag--muted">No change yet</span>
-                        )}
-                      </div>
+          <div className="summary-grid">
+            {groupedObjects.length > 0 ? (
+              groupedObjects.map((group) => (
+                <article className="summary-row" key={`${group.family}-${group.tier}`}>
+                  <div className="summary-row__copy">
+                    <div className="summary-row__headline">
+                      <strong>{group.count} {group.family === 'belt' ? 'Conveyors' : 'Lifts'}</strong>
+                      <span>Tier {group.tier}</span>
                     </div>
+                    <div className="summary-row__tags">
+                      <span className="tag">{group.family === 'belt' ? 'Conveyor Belt' : 'Conveyor Lift'}</span>
+                      {changedCount > 0 ? <span className="tag tag--muted">Edited in app</span> : <span className="tag tag--muted">No change yet</span>}
+                    </div>
+                  </div>
 
-                    <label className="tier-picker">
-                      <span>Tier</span>
-                      <select value={selectedTier} onChange={(event) => handleTierChange(index, variant.family, event.target.value)}>
-                        {CONVEYOR_TIER_OPTIONS.filter((option) => option.family === variant.family).map((option) => (
-                          <option key={option.typePath} value={option.tier}>
-                            {option.label}
-                          </option>
-                        ))}
-                      </select>
-                    </label>
-                  </article>
-                );
-              })}
-            </div>
-          ) : (
-            <div className="empty-state">
-              <h3>No conveyor belts or lifts found</h3>
-              <p>The blueprint loaded correctly, but it does not contain any buildable conveyor objects the parser knows how to retier.</p>
-            </div>
-          )}
+                  <label className="tier-picker">
+                    <span>Tier</span>
+                    <select value={group.tier} onChange={(event) => handleTierChange(group.family, group.tier, event.target.value)}>
+                      {CONVEYOR_TIER_OPTIONS.filter((option) => option.family === group.family).map((option) => (
+                        <option key={option.typePath} value={option.tier}>
+                          {option.label}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                </article>
+              ))
+            ) : (
+              <div className="empty-state">
+                <h3>No conveyor belts or lifts found</h3>
+                <p>The blueprint loaded correctly, but it does not contain any conveyor objects the app knows how to group.</p>
+              </div>
+            )}
+          </div>
         </section>
       ) : (
         <section className="card empty-panel">
           <h2>3. Inspect the parsed result</h2>
           <p>
-            Once a blueprint is parsed, the editor lists every conveyor belt and conveyor lift it finds and lets you change the tier directly.
+            Once a blueprint is parsed, the editor shows grouped conveyor and lift counts with dropdowns for changing each tier.
           </p>
         </section>
       )}
