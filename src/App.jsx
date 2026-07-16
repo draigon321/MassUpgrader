@@ -177,8 +177,8 @@ function App() {
     <main className="app-shell">
       <section className="hero card">
         <div className="hero-copy">
-          <p className="eyebrow">Satisfactory blueprint tier editor</p>
-          <h1>Import one `.sbp`, retier conveyors and lifts, and export the modified blueprint.</h1>
+          <p className="eyebrow">Mass Upgrader</p>
+          <h1>Mass Upgrader retiers Satisfactory conveyors and lifts in a single blueprint export pass.</h1>
           <p className="lede">
             Load a blueprint, inspect grouped conveyor and lift counts, change the tier from a dropdown, and write the modified binary files back out.
           </p>
