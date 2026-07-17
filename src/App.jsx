@@ -51,6 +51,10 @@ function App() {
 
     return workingBlueprint.objects.filter((object, index) => sourceBlueprint.objects[index]?.typePath !== object.typePath).length;
   }, [sourceBlueprint, workingBlueprint]);
+  const blueprintName = workingBlueprint?.name ?? (selectedFile ? getBlueprintStem(selectedFile.name) : 'Awaiting blueprint');
+  const objectCount = workingBlueprint?.objects.length ?? 0;
+  const statusTone = errorMessage ? 'error' : workingBlueprint ? 'loaded' : selectedFile ? 'ready' : 'idle';
+  const statusLabel = errorMessage ? 'Error' : workingBlueprint ? 'Loaded' : selectedFile ? 'Ready' : 'Idle';
 
   const handleFileSelection = (event) => {
     const nextFile = Array.from(event.target.files ?? []).find((file) => file.name.toLowerCase().endsWith('.sbp')) ?? null;
@@ -175,39 +179,58 @@ function App() {
 
   return (
     <main className="app-shell">
-      <section className="hero card">
-        <div className="hero-copy">
-          <p className="eyebrow">Mass Upgrader</p>
-          <h1>Mass Upgrader retiers Satisfactory conveyors and lifts in a single blueprint export pass.</h1>
-          <p className="lede">
-            Load a blueprint, inspect grouped conveyor and lift counts, change the tier from a dropdown, and write the modified binary files back out.
-          </p>
+      <section className="card hero hero--status">
+        <div className="hero-topline">
+          <div>
+            <p className="eyebrow">Blueprint Status</p>
+            <h1>Mass Upgrader</h1>
+          </div>
+          <span className={`status-pill status-pill--${statusTone}`}>{statusLabel}</span>
         </div>
 
-        <div className="hero-stats" aria-label="Current blueprint summary">
-          <div>
-            <span>Editable groups</span>
+        <div className="status-grid" aria-label="Current blueprint summary">
+          <article className="status-cell status-cell--file">
+            <span>File</span>
+            <strong>{blueprintName}</strong>
+          </article>
+          <article className="status-cell">
+            <span>Groups</span>
             <strong>{groupedObjects.length}</strong>
-          </div>
-          <div>
+          </article>
+          <article className="status-cell">
             <span>Belts</span>
             <strong>{beltCount}</strong>
-          </div>
-          <div>
+          </article>
+          <article className="status-cell">
             <span>Lifts</span>
             <strong>{liftCount}</strong>
-          </div>
-          <div>
-            <span>Pending changes</span>
+          </article>
+          <article className="status-cell">
+            <span>Objects</span>
+            <strong>{objectCount}</strong>
+          </article>
+          <article className="status-cell">
+            <span>Pending</span>
             <strong>{changedCount}</strong>
-          </div>
+          </article>
         </div>
+
+        <p className="lede hero-lede">
+          Import one blueprint, inspect grouped conveyor tiers, retier belts and lifts, then export the modified files in a single pass.
+        </p>
       </section>
 
       <section className="card upload-panel">
-        <div className="panel-copy">
-          <h2>1. Choose the blueprint file</h2>
-          <p>Pick the main `.sbp` file. The app will generate a minimal companion config and let you edit the description in the browser.</p>
+        <div className="panel-copy panel-copy-spaced panel-copy-spaced--tight">
+          <div>
+            <p className="section-kicker">Operator Console</p>
+            <h2>Load blueprint data and stage the export workflow.</h2>
+            <p>Pick the main `.sbp` file. Mass Upgrader generates a minimal companion config, preserves the description draft, and exposes each editable conveyor family as a grouped tier control.</p>
+          </div>
+          <div className="callout-chip">
+            <span>Workflow</span>
+            <strong>Import / Parse / Retier / Export</strong>
+          </div>
         </div>
 
         <p className="attribution-copy">
@@ -229,6 +252,10 @@ function App() {
             <span>Blueprint file</span>
             <strong>{selectedFile ? selectedFile.name : 'Not selected'}</strong>
           </div>
+          <div>
+            <span>Parser state</span>
+            <strong>{isParsing ? 'Parsing' : workingBlueprint ? 'Parsed' : selectedFile ? 'Selected' : 'Waiting'}</strong>
+          </div>
         </div>
 
         <div className="action-row">
@@ -248,8 +275,9 @@ function App() {
         <section className="card editor-panel">
           <div className="panel-copy panel-copy-spaced">
             <div>
-              <h2>2. Edit the description</h2>
-              <p>This value will be written back into the exported companion config file.</p>
+              <p className="section-kicker">Blueprint Editor</p>
+              <h2>Retier grouped conveyors and write the description back into the export.</h2>
+              <p>This description is serialized into the companion config file, while each group selector rewrites every matching belt or lift instance in the parsed blueprint.</p>
             </div>
             <div className="blueprint-meta">
               <span>Blueprint name</span>
@@ -276,7 +304,7 @@ function App() {
                   <div className="summary-row__copy">
                     <div className="summary-row__headline">
                       <strong>{group.count} {group.family === 'belt' ? 'Conveyors' : 'Lifts'}</strong>
-                      <span>Tier {group.tier}</span>
+                      <span>Current tier Mk.{group.tier}</span>
                     </div>
                     <div className="summary-row__tags">
                       <span className="tag">{group.family === 'belt' ? 'Conveyor Belt' : 'Conveyor Lift'}</span>
@@ -306,7 +334,8 @@ function App() {
         </section>
       ) : (
         <section className="card empty-panel">
-          <h2>3. Inspect the parsed result</h2>
+          <p className="section-kicker">Awaiting Parse</p>
+          <h2>Grouped tier controls appear here after a successful parse.</h2>
           <p>
             Once a blueprint is parsed, the editor shows grouped conveyor and lift counts with dropdowns for changing each tier.
           </p>
