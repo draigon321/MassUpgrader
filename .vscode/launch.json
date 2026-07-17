@@ -2,7 +2,18 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Vite: One-Click Edge Debug (F5)",
+      "name": "Vite: One-Click Start (Works in Codespaces + VS Code)",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run dev:host",
+      "serverReadyAction": {
+        "pattern": "Local:\\s+http://localhost:(\\d+)/",
+        "uriFormat": "http://localhost:%s",
+        "action": "openExternally"
+      }
+    },
+    {
+      "name": "Vite: One-Click Edge Debug (Desktop VS Code)",
       "type": "msedge",
       "request": "launch",
       "preLaunchTask": "vite:dev-debug",
@@ -11,7 +22,7 @@
       "webRoot": "${workspaceFolder}/src"
     },
     {
-      "name": "Vite: One-Click Chrome Debug",
+      "name": "Vite: One-Click Chrome Debug (Desktop VS Code)",
       "type": "chrome",
       "request": "launch",
       "preLaunchTask": "vite:dev-debug",
@@ -31,24 +42,13 @@
       }
     },
     {
-      "name": "Vite: Run + Open Browser (Chrome)",
-      "type": "node-terminal",
-      "request": "launch",
-      "command": "npm run dev:host",
-      "serverReadyAction": {
-        "pattern": "Local:\\s+http://localhost:(\\d+)/",
-        "uriFormat": "http://localhost:%s",
-        "action": "openExternally"
-      }
-    },
-    {
       "name": "Vite: Start Dev Server Only",
       "type": "node-terminal",
       "request": "launch",
       "command": "npm run dev:debug"
     },
     {
-      "name": "Vite: Debug Edge (Manual)",
+      "name": "Vite: Debug Edge (Manual, Desktop VS Code)",
       "type": "msedge",
       "request": "launch",
       "url": "http://localhost:5173/",
@@ -56,7 +56,7 @@
       "webRoot": "${workspaceFolder}/src"
     },
     {
-      "name": "Vite: Debug Chrome (Manual)",
+      "name": "Vite: Debug Chrome (Manual, Desktop VS Code)",
       "type": "chrome",
       "request": "launch",
       "url": "http://localhost:5173/",
