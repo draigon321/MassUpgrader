@@ -4,6 +4,9 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Local archive used for manual imports
+MassUpgrader.zip
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)

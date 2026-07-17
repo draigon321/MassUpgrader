@@ -1,0 +1,2809 @@
+{
+  "source": "SyBozz Satisfactory-Icons",
+  "generatedAt": "2026-07-17T07:03:45.645Z",
+  "totalEntries": 851,
+  "resolvedCount": 350,
+  "missingCount": 501,
+  "icons": {
+    "1": {
+      "id": 1,
+      "name": "The HUB",
+      "category": "Buildings",
+      "file": "/icons/Buildings/1_The_HUB.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "2": {
+      "id": 2,
+      "name": "Crafting Bench",
+      "category": "Buildings",
+      "file": "/icons/Buildings/2_Crafting_Bench.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "3": {
+      "id": 3,
+      "name": "Equipment Workshop",
+      "category": "Buildings",
+      "file": "/icons/Buildings/3_Equipment_Workshop.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "4": {
+      "id": 4,
+      "name": "Smelter",
+      "category": "Buildings",
+      "file": "/icons/Buildings/4_Smelter.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "5": {
+      "id": 5,
+      "name": "Power Line",
+      "category": "Buildings",
+      "file": "/icons/Buildings/5_Power_Line.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "6": {
+      "id": 6,
+      "name": "Constructor",
+      "category": "Buildings",
+      "file": "/icons/Buildings/6_Constructor.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "7": {
+      "id": 7,
+      "name": "Power Pole Mk.1",
+      "category": "Buildings",
+      "file": "/icons/Buildings/7_Power_Pole_Mk.1.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "8": {
+      "id": 8,
+      "name": "Conveyor Pole",
+      "category": "Buildings",
+      "file": "/icons/Buildings/8_Conveyor_Pole.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "9": {
+      "id": 9,
+      "name": "Conveyor Belt Mk.1",
+      "category": "Buildings",
+      "file": "/icons/Buildings/9_Conveyor_Belt_Mk.1.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "10": {
+      "id": 10,
+      "name": "Miner Mk.1",
+      "category": "Buildings",
+      "file": "/icons/Buildings/10_Miner_Mk.1.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "11": {
+      "id": 11,
+      "name": "Storage Container",
+      "category": "Buildings",
+      "file": "/icons/Buildings/11_Storage_Container.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "12": {
+      "id": 12,
+      "name": "Space Elevator",
+      "category": "Buildings",
+      "file": "/icons/Buildings/12_Space_Elevator.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "13": {
+      "id": 13,
+      "name": "Biomass Burner",
+      "category": "Buildings",
+      "file": "/icons/Buildings/13_Biomass_Burner.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "14": {
+      "id": 14,
+      "name": "Giant FICSMAS Tree",
+      "category": "Buildings",
+      "file": "/icons/Buildings/14_Giant_FICSMAS_Tree.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "18": {
+      "id": 18,
+      "name": "Ceiling Light",
+      "category": "Buildings",
+      "file": "/icons/Buildings/18_Ceiling_Light.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "19": {
+      "id": 19,
+      "name": "Wall-Mounted Flood Light",
+      "category": "Buildings",
+      "file": "/icons/Buildings/19_Wall-Mounted_Flood_Light.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "20": {
+      "id": 20,
+      "name": "Flood Light Tower",
+      "category": "Buildings",
+      "file": "/icons/Buildings/20_Flood_Light_Tower.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "21": {
+      "id": 21,
+      "name": "Light Control Panel",
+      "category": "Buildings",
+      "file": "/icons/Buildings/21_Light_Control_Panel.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "22": {
+      "id": 22,
+      "name": "Resource Well Pressurizer",
+      "category": "Buildings",
+      "file": "/icons/Buildings/22_Resource_Well_Pressurizer.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "23": {
+      "id": 23,
+      "name": "Resource Well Extractor",
+      "category": "Buildings",
+      "file": "/icons/Buildings/23_Resource_Well_Extractor.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "25": {
+      "id": 25,
+      "name": "Ladder",
+      "category": "Buildings",
+      "file": "/icons/Buildings/25_Ladder.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "26": {
+      "id": 26,
+      "name": "Drone Port",
+      "category": "Buildings",
+      "file": "/icons/Buildings/26_Drone_Port.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "27": {
+      "id": 27,
+      "name": "Fence",
+      "category": "Buildings",
+      "file": "/icons/Buildings/27_Fence.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "29": {
+      "id": 29,
+      "name": "Panel Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/29_Panel_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "31": {
+      "id": 31,
+      "name": "Jump Pad",
+      "category": "Buildings",
+      "file": "/icons/Buildings/31_Jump_Pad.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "32": {
+      "id": 32,
+      "name": "Power Pole Mk.2",
+      "category": "Buildings",
+      "file": "/icons/Buildings/32_Power_Pole_Mk.2.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "33": {
+      "id": 33,
+      "name": "Wall Outlet Mk.2",
+      "category": "Buildings",
+      "file": "/icons/Buildings/33_Wall_Outlet_Mk.2.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "34": {
+      "id": 34,
+      "name": "Double Wall Outlet Mk.2",
+      "category": "Buildings",
+      "file": "/icons/Buildings/34_Double_Wall_Outlet_Mk.2.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "35": {
+      "id": 35,
+      "name": "Smart Splitter",
+      "category": "Buildings",
+      "file": "/icons/Buildings/35_Smart_Splitter.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "36": {
+      "id": 36,
+      "name": "Converter",
+      "category": "Buildings",
+      "file": "/icons/Buildings/36_Converter.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "37": {
+      "id": 37,
+      "name": "Remote Storage",
+      "category": "Buildings",
+      "file": "/icons/Buildings/37_Remote_Storage.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "38": {
+      "id": 38,
+      "name": "Lookout Tower",
+      "category": "Buildings",
+      "file": "/icons/Buildings/38_Lookout_Tower.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "45": {
+      "id": 45,
+      "name": "Conveyor Splitter",
+      "category": "Buildings",
+      "file": "/icons/Buildings/45_Conveyor_Splitter.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "46": {
+      "id": 46,
+      "name": "Conveyor Merger",
+      "category": "Buildings",
+      "file": "/icons/Buildings/46_Conveyor_Merger.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "59": {
+      "id": 59,
+      "name": "Assembler",
+      "category": "Buildings",
+      "file": "/icons/Buildings/59_Assembler.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "60": {
+      "id": 60,
+      "name": "U-Jelly Landing Pad",
+      "category": "Buildings",
+      "file": "/icons/Buildings/60_U-Jelly_Landing_Pad.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "61": {
+      "id": 61,
+      "name": "Walkway Straight",
+      "category": "Buildings",
+      "file": "/icons/Buildings/61_Walkway_Straight.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "63": {
+      "id": 63,
+      "name": "Walkway T-Crossing",
+      "category": "Buildings",
+      "file": "/icons/Buildings/63_Walkway_T-Crossing.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "64": {
+      "id": 64,
+      "name": "Walkway Turn",
+      "category": "Buildings",
+      "file": "/icons/Buildings/64_Walkway_Turn.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "69": {
+      "id": 69,
+      "name": "Clean Pipeline Mk.1",
+      "category": "Buildings",
+      "file": "/icons/Buildings/69_Clean_Pipeline_Mk.1.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "70": {
+      "id": 70,
+      "name": "Pipeline Support",
+      "category": "Buildings",
+      "file": "/icons/Buildings/70_Pipeline_Support.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "71": {
+      "id": 71,
+      "name": "Pipeline Junction",
+      "category": "Buildings",
+      "file": "/icons/Buildings/71_Pipeline_Junction.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "72": {
+      "id": 72,
+      "name": "Pipeline Pump Mk.1",
+      "category": "Buildings",
+      "file": "/icons/Buildings/72_Pipeline_Pump_Mk.1.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "73": {
+      "id": 73,
+      "name": "Fluid Buffer",
+      "category": "Buildings",
+      "file": "/icons/Buildings/73_Fluid_Buffer.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "74": {
+      "id": 74,
+      "name": "Conveyor Belt Mk.2",
+      "category": "Buildings",
+      "file": "/icons/Buildings/74_Conveyor_Belt_Mk.2.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "75": {
+      "id": 75,
+      "name": "Stackable Conveyor Pole",
+      "category": "Buildings",
+      "file": "/icons/Buildings/75_Stackable_Conveyor_Pole.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "76": {
+      "id": 76,
+      "name": "Conveyor Lift Mk.2",
+      "category": "Buildings",
+      "file": "/icons/Buildings/76_Conveyor_Lift_Mk.2.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "77": {
+      "id": 77,
+      "name": "Truck Station",
+      "category": "Buildings",
+      "file": "/icons/Buildings/77_Truck_Station.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "78": {
+      "id": 78,
+      "name": "Foundry",
+      "category": "Buildings",
+      "file": "/icons/Buildings/78_Foundry.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "79": {
+      "id": 79,
+      "name": "Miner Mk.2",
+      "category": "Buildings",
+      "file": "/icons/Buildings/79_Miner_Mk.2.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "80": {
+      "id": 80,
+      "name": "Hypertube Entrance",
+      "category": "Buildings",
+      "file": "/icons/Buildings/80_Hypertube_Entrance.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "81": {
+      "id": 81,
+      "name": "Hypertube",
+      "category": "Buildings",
+      "file": "/icons/Buildings/81_Hypertube.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "82": {
+      "id": 82,
+      "name": "Hypertube Support",
+      "category": "Buildings",
+      "file": "/icons/Buildings/82_Hypertube_Support.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "83": {
+      "id": 83,
+      "name": "Stackable Hypertube Support",
+      "category": "Buildings",
+      "file": "/icons/Buildings/83_Stackable_Hypertube_Support.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "84": {
+      "id": 84,
+      "name": "Oil Extractor",
+      "category": "Buildings",
+      "file": "/icons/Buildings/84_Oil_Extractor.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "85": {
+      "id": 85,
+      "name": "Refinery",
+      "category": "Buildings",
+      "file": "/icons/Buildings/85_Refinery.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "86": {
+      "id": 86,
+      "name": "Valve",
+      "category": "Buildings",
+      "file": "/icons/Buildings/86_Valve.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "87": {
+      "id": 87,
+      "name": "Manufacturer",
+      "category": "Buildings",
+      "file": "/icons/Buildings/87_Manufacturer.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "88": {
+      "id": 88,
+      "name": "Power Storage",
+      "category": "Buildings",
+      "file": "/icons/Buildings/88_Power_Storage.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "89": {
+      "id": 89,
+      "name": "Industrial Storage Container",
+      "category": "Buildings",
+      "file": "/icons/Buildings/89_Industrial_Storage_Container.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "90": {
+      "id": 90,
+      "name": "Conveyor Belt Mk.3",
+      "category": "Buildings",
+      "file": "/icons/Buildings/90_Conveyor_Belt_Mk.3.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "91": {
+      "id": 91,
+      "name": "Conveyor Lift Mk.3",
+      "category": "Buildings",
+      "file": "/icons/Buildings/91_Conveyor_Lift_Mk.3.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "92": {
+      "id": 92,
+      "name": "Stackable Pipeline Support",
+      "category": "Buildings",
+      "file": "/icons/Buildings/92_Stackable_Pipeline_Support.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "93": {
+      "id": 93,
+      "name": "Packager",
+      "category": "Buildings",
+      "file": "/icons/Buildings/93_Packager.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "94": {
+      "id": 94,
+      "name": "Industrial Fluid Buffer",
+      "category": "Buildings",
+      "file": "/icons/Buildings/94_Industrial_Fluid_Buffer.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "95": {
+      "id": 95,
+      "name": "Fuel-Powered Generator",
+      "category": "Buildings",
+      "file": "/icons/Buildings/95_Fuel-Powered_Generator.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "96": {
+      "id": 96,
+      "name": "Conveyor Belt Mk.4",
+      "category": "Buildings",
+      "file": "/icons/Buildings/96_Conveyor_Belt_Mk.4.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "97": {
+      "id": 97,
+      "name": "Conveyor Lift Mk.4",
+      "category": "Buildings",
+      "file": "/icons/Buildings/97_Conveyor_Lift_Mk.4.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "98": {
+      "id": 98,
+      "name": "Railway",
+      "category": "Buildings",
+      "file": "/icons/Buildings/98_Railway.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "99": {
+      "id": 99,
+      "name": "Train Station",
+      "category": "Buildings",
+      "file": "/icons/Buildings/99_Train_Station.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "100": {
+      "id": 100,
+      "name": "Freight Platform",
+      "category": "Buildings",
+      "file": "/icons/Buildings/100_Freight_Platform.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "101": {
+      "id": 101,
+      "name": "Fluid Freight Platform",
+      "category": "Buildings",
+      "file": "/icons/Buildings/101_Fluid_Freight_Platform.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "102": {
+      "id": 102,
+      "name": "Empty Platform",
+      "category": "Buildings",
+      "file": "/icons/Buildings/102_Empty_Platform.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "103": {
+      "id": 103,
+      "name": "Clean Pipeline Mk.2",
+      "category": "Buildings",
+      "file": "/icons/Buildings/103_Clean_Pipeline_Mk.2.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "104": {
+      "id": 104,
+      "name": "Pipeline Pump Mk.2",
+      "category": "Buildings",
+      "file": "/icons/Buildings/104_Pipeline_Pump_Mk.2.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "105": {
+      "id": 105,
+      "name": "Blender",
+      "category": "Buildings",
+      "file": "/icons/Buildings/105_Blender.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "106": {
+      "id": 106,
+      "name": "Conveyor Belt Mk.5",
+      "category": "Buildings",
+      "file": "/icons/Buildings/106_Conveyor_Belt_Mk.5.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "107": {
+      "id": 107,
+      "name": "Conveyor Lift Mk.5",
+      "category": "Buildings",
+      "file": "/icons/Buildings/107_Conveyor_Lift_Mk.5.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "108": {
+      "id": 108,
+      "name": "Nuclear Power Plant",
+      "category": "Buildings",
+      "file": "/icons/Buildings/108_Nuclear_Power_Plant.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "109": {
+      "id": 109,
+      "name": "Miner Mk.3",
+      "category": "Buildings",
+      "file": "/icons/Buildings/109_Miner_Mk.3.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "110": {
+      "id": 110,
+      "name": "Particle Accelerator",
+      "category": "Buildings",
+      "file": "/icons/Buildings/110_Particle_Accelerator.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "111": {
+      "id": 111,
+      "name": "Power Switch",
+      "category": "Buildings",
+      "file": "/icons/Buildings/111_Power_Switch.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "112": {
+      "id": 112,
+      "name": "Power Pole Mk.3",
+      "category": "Buildings",
+      "file": "/icons/Buildings/112_Power_Pole_Mk.3.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "113": {
+      "id": 113,
+      "name": "Programmable Splitter",
+      "category": "Buildings",
+      "file": "/icons/Buildings/113_Programmable_Splitter.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "114": {
+      "id": 114,
+      "name": "Geothermal Generator",
+      "category": "Buildings",
+      "file": "/icons/Buildings/114_Geothermal_Generator.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "115": {
+      "id": 115,
+      "name": "Radar Tower",
+      "category": "Buildings",
+      "file": "/icons/Buildings/115_Radar_Tower.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "116": {
+      "id": 116,
+      "name": "FICSMAS Candy Cane",
+      "category": "Buildings",
+      "file": "/icons/Buildings/116_FICSMAS_Candy_Cane.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "117": {
+      "id": 117,
+      "name": "FICSMAS Snowman",
+      "category": "Buildings",
+      "file": "/icons/Buildings/117_FICSMAS_Snowman.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "118": {
+      "id": 118,
+      "name": "FICSMAS Gift Tree",
+      "category": "Buildings",
+      "file": "/icons/Buildings/118_FICSMAS_Gift_Tree.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "119": {
+      "id": 119,
+      "name": "FICSMAS Snow Dispenser",
+      "category": "Buildings",
+      "file": "/icons/Buildings/119_FICSMAS_Snow_Dispenser.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "120": {
+      "id": 120,
+      "name": "FICSMAS Decoration",
+      "category": "Buildings",
+      "file": "/icons/Buildings/120_FICSMAS_Decoration.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "121": {
+      "id": 121,
+      "name": "Quarter Pipe",
+      "category": "Buildings",
+      "file": "/icons/Buildings/121_Quarter_Pipe.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "122": {
+      "id": 122,
+      "name": "Inverted Quarter Pipe",
+      "category": "Buildings",
+      "file": "/icons/Buildings/122_Inverted_Quarter_Pipe.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "139": {
+      "id": 139,
+      "name": "Gate Wall",
+      "category": "Buildings",
+      "file": "/icons/Buildings/139_Gate_Wall.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "140": {
+      "id": 140,
+      "name": "Pillar Top",
+      "category": "Buildings",
+      "file": "/icons/Buildings/140_Pillar_Top.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "141": {
+      "id": 141,
+      "name": "Big Metal Pillar",
+      "category": "Buildings",
+      "file": "/icons/Buildings/141_Big_Metal_Pillar.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "142": {
+      "id": 142,
+      "name": "Big Pillar Support",
+      "category": "Buildings",
+      "file": "/icons/Buildings/142_Big_Pillar_Support.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "147": {
+      "id": 147,
+      "name": "Glass Frame Foundation",
+      "category": "Buildings",
+      "file": "/icons/Buildings/147_Glass_Frame_Foundation.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "148": {
+      "id": 148,
+      "name": "Hypertube Wall Support",
+      "category": "Buildings",
+      "file": "/icons/Buildings/148_Hypertube_Wall_Support.png",
+      "source": "0-building.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/Hypertube_Wall_Support.png?ffc395"
+    },
+    "149": {
+      "id": 149,
+      "name": "Hypertube Wall Hole",
+      "category": "Buildings",
+      "file": "/icons/Buildings/149_Hypertube_Wall_Hole.png",
+      "source": "0-building.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/Hypertube_Wall_Hole.png?e96be4"
+    },
+    "159": {
+      "id": 159,
+      "name": "Pipeline Wall Support",
+      "category": "Buildings",
+      "file": "/icons/Buildings/159_Pipeline_Wall_Support.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "160": {
+      "id": 160,
+      "name": "Pipeline Wall Hole",
+      "category": "Buildings",
+      "file": "/icons/Buildings/160_Pipeline_Wall_Hole.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "161": {
+      "id": 161,
+      "name": "Street Light",
+      "category": "Buildings",
+      "file": "/icons/Buildings/161_Street_Light.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "162": {
+      "id": 162,
+      "name": "Wall Outlet Mk.1",
+      "category": "Buildings",
+      "file": "/icons/Buildings/162_Wall_Outlet_Mk.1.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "163": {
+      "id": 163,
+      "name": "Double Wall Outlet Mk.1",
+      "category": "Buildings",
+      "file": "/icons/Buildings/163_Double_Wall_Outlet_Mk.1.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "164": {
+      "id": 164,
+      "name": "Wall Outlet Mk.3",
+      "category": "Buildings",
+      "file": "/icons/Buildings/164_Wall_Outlet_Mk.3.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "165": {
+      "id": 165,
+      "name": "Double Wall Outlet Mk.3",
+      "category": "Buildings",
+      "file": "/icons/Buildings/165_Double_Wall_Outlet_Mk.3.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "166": {
+      "id": 166,
+      "name": "Single Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/166_Single_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "167": {
+      "id": 167,
+      "name": "Frame Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/167_Frame_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "168": {
+      "id": 168,
+      "name": "Reinforced Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/168_Reinforced_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "169": {
+      "id": 169,
+      "name": "Xeno-Zapper",
+      "category": "Equipment",
+      "file": "/icons/Equipment/169_Xeno-Zapper.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "172": {
+      "id": 172,
+      "name": "Blade Runners",
+      "category": "Equipment",
+      "file": "/icons/Equipment/172_Blade_Runners.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "175": {
+      "id": 175,
+      "name": "Chainsaw",
+      "category": "Equipment",
+      "file": "/icons/Equipment/175_Chainsaw.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "179": {
+      "id": 179,
+      "name": "Hazmat Suit",
+      "category": "Equipment",
+      "file": "/icons/Equipment/179_Hazmat_Suit.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "181": {
+      "id": 181,
+      "name": "Rebar Gun",
+      "category": "Equipment",
+      "file": "/icons/Equipment/181_Rebar_Gun.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "182": {
+      "id": 182,
+      "name": "Medicinal Inhaler",
+      "category": "Equipment",
+      "file": "/icons/Equipment/182_Medicinal_Inhaler.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "183": {
+      "id": 183,
+      "name": "Zipline",
+      "category": "Equipment",
+      "file": "/icons/Equipment/183_Zipline.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "184": {
+      "id": 184,
+      "name": "Color Gun",
+      "category": "Equipment",
+      "file": "/icons/Equipment/184_Color_Gun.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "185": {
+      "id": 185,
+      "name": "Parachute",
+      "category": "Equipment",
+      "file": "/icons/Equipment/185_Parachute.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "188": {
+      "id": 188,
+      "name": "Beryl Nut",
+      "category": "Equipment",
+      "file": "/icons/Equipment/188_Beryl_Nut.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "189": {
+      "id": 189,
+      "name": "Rifle",
+      "category": "Equipment",
+      "file": "/icons/Equipment/189_Rifle.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/Rifle.png?c0885d"
+    },
+    "190": {
+      "id": 190,
+      "name": "Candy Cane Basher",
+      "category": "Equipment",
+      "file": "/icons/Equipment/190_Candy_Cane_Basher.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "192": {
+      "id": 192,
+      "name": "Factory Cart™",
+      "category": "Equipment",
+      "file": "/icons/Equipment/192_Factory_Cart.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "193": {
+      "id": 193,
+      "name": "Iron Ore",
+      "category": "Parts",
+      "file": "/icons/Parts/193_Iron_Ore.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "194": {
+      "id": 194,
+      "name": "Iron Ingot",
+      "category": "Parts",
+      "file": "/icons/Parts/194_Iron_Ingot.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "195": {
+      "id": 195,
+      "name": "Iron Plate",
+      "category": "Parts",
+      "file": "/icons/Parts/195_Iron_Plate.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "196": {
+      "id": 196,
+      "name": "Iron Rod",
+      "category": "Parts",
+      "file": "/icons/Parts/196_Iron_Rod.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "197": {
+      "id": 197,
+      "name": "HUB Parts",
+      "category": "Parts",
+      "file": "/icons/Parts/197_HUB_Parts.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "198": {
+      "id": 198,
+      "name": "Copper Ore",
+      "category": "Parts",
+      "file": "/icons/Parts/198_Copper_Ore.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "199": {
+      "id": 199,
+      "name": "Bauxite",
+      "category": "Parts",
+      "file": "/icons/Parts/199_Bauxite.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "200": {
+      "id": 200,
+      "name": "Caterium Ore",
+      "category": "Parts",
+      "file": "/icons/Parts/200_Caterium_Ore.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "201": {
+      "id": 201,
+      "name": "Uranium",
+      "category": "Parts",
+      "file": "/icons/Parts/201_Uranium.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "202": {
+      "id": 202,
+      "name": "Crude Oil",
+      "category": "Parts",
+      "file": "/icons/Parts/202_Crude_Oil.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "203": {
+      "id": 203,
+      "name": "Sulfur",
+      "category": "Parts",
+      "file": "/icons/Parts/203_Sulfur.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "204": {
+      "id": 204,
+      "name": "Limestone",
+      "category": "Parts",
+      "file": "/icons/Parts/204_Limestone.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "205": {
+      "id": 205,
+      "name": "Coal",
+      "category": "Parts",
+      "file": "/icons/Parts/205_Coal.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "206": {
+      "id": 206,
+      "name": "Raw Quartz",
+      "category": "Parts",
+      "file": "/icons/Parts/206_Raw_Quartz.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "207": {
+      "id": 207,
+      "name": "Reinforced Iron Plate",
+      "category": "Parts",
+      "file": "/icons/Parts/207_Reinforced_Iron_Plate.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "208": {
+      "id": 208,
+      "name": "Cable",
+      "category": "Parts",
+      "file": "/icons/Parts/208_Cable.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "209": {
+      "id": 209,
+      "name": "Wire",
+      "category": "Parts",
+      "file": "/icons/Parts/209_Wire.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "210": {
+      "id": 210,
+      "name": "Copper Ingot",
+      "category": "Parts",
+      "file": "/icons/Parts/210_Copper_Ingot.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "211": {
+      "id": 211,
+      "name": "Concrete",
+      "category": "Parts",
+      "file": "/icons/Parts/211_Concrete.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "212": {
+      "id": 212,
+      "name": "Screw",
+      "category": "Parts",
+      "file": "/icons/Parts/212_Screw.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "213": {
+      "id": 213,
+      "name": "Wood",
+      "category": "Parts",
+      "file": "/icons/Parts/213_Wood.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "214": {
+      "id": 214,
+      "name": "Biomass",
+      "category": "Parts",
+      "file": "/icons/Parts/214_Biomass.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "215": {
+      "id": 215,
+      "name": "Leaves",
+      "category": "Parts",
+      "file": "/icons/Parts/215_Leaves.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "216": {
+      "id": 216,
+      "name": "FICSMAS Tree Branch",
+      "category": "Parts",
+      "file": "/icons/Parts/216_FICSMAS_Tree_Branch.png",
+      "source": "1-part.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/FICSMAS_Tree_Branch.png?2f00ff"
+    },
+    "217": {
+      "id": 217,
+      "name": "FICSMAS Gift",
+      "category": "Parts",
+      "file": "/icons/Parts/217_FICSMAS_Gift.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "219": {
+      "id": 219,
+      "name": "Steel Beam",
+      "category": "Parts",
+      "file": "/icons/Parts/219_Steel_Beam.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "220": {
+      "id": 220,
+      "name": "Copper Sheet",
+      "category": "Parts",
+      "file": "/icons/Parts/220_Copper_Sheet.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "221": {
+      "id": 221,
+      "name": "Encased Industrial Beam",
+      "category": "Parts",
+      "file": "/icons/Parts/221_Encased_Industrial_Beam.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "222": {
+      "id": 222,
+      "name": "Rubber",
+      "category": "Parts",
+      "file": "/icons/Parts/222_Rubber.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "223": {
+      "id": 223,
+      "name": "Motor",
+      "category": "Parts",
+      "file": "/icons/Parts/223_Motor.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "224": {
+      "id": 224,
+      "name": "Plastic",
+      "category": "Parts",
+      "file": "/icons/Parts/224_Plastic.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "225": {
+      "id": 225,
+      "name": "Heavy Modular Frame",
+      "category": "Parts",
+      "file": "/icons/Parts/225_Heavy_Modular_Frame.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "226": {
+      "id": 226,
+      "name": "High-Speed Connector",
+      "category": "Parts",
+      "file": "/icons/Parts/226_High-Speed_Connector.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "227": {
+      "id": 227,
+      "name": "Alclad Aluminum Sheet",
+      "category": "Parts",
+      "file": "/icons/Parts/227_Alclad_Aluminum_Sheet.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "228": {
+      "id": 228,
+      "name": "Aluminum Casing",
+      "category": "Parts",
+      "file": "/icons/Parts/228_Aluminum_Casing.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "229": {
+      "id": 229,
+      "name": "Radio Control Unit",
+      "category": "Parts",
+      "file": "/icons/Parts/229_Radio_Control_Unit.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "230": {
+      "id": 230,
+      "name": "AI Limiter",
+      "category": "Parts",
+      "file": "/icons/Parts/230_AI_Limiter.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "231": {
+      "id": 231,
+      "name": "Drone",
+      "category": "Parts",
+      "file": "/icons/Parts/231_Drone.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "232": {
+      "id": 232,
+      "name": "Rotor",
+      "category": "Parts",
+      "file": "/icons/Parts/232_Rotor.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "233": {
+      "id": 233,
+      "name": "Modular Frame",
+      "category": "Parts",
+      "file": "/icons/Parts/233_Modular_Frame.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "234": {
+      "id": 234,
+      "name": "Heavy Oil Residue",
+      "category": "Parts",
+      "file": "/icons/Parts/234_Heavy_Oil_Residue.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "235": {
+      "id": 235,
+      "name": "Empty Canister",
+      "category": "Parts",
+      "file": "/icons/Parts/235_Empty_Canister.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "236": {
+      "id": 236,
+      "name": "Petroleum Coke",
+      "category": "Parts",
+      "file": "/icons/Parts/236_Petroleum_Coke.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "237": {
+      "id": 237,
+      "name": "Steel Ingot",
+      "category": "Parts",
+      "file": "/icons/Parts/237_Steel_Ingot.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "238": {
+      "id": 238,
+      "name": "Packaged Water",
+      "category": "Parts",
+      "file": "/icons/Parts/238_Packaged_Water.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "239": {
+      "id": 239,
+      "name": "Packaged Fuel",
+      "category": "Parts",
+      "file": "/icons/Parts/239_Packaged_Fuel.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "240": {
+      "id": 240,
+      "name": "Alumina Solution",
+      "category": "Parts",
+      "file": "/icons/Parts/240_Alumina_Solution.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "241": {
+      "id": 241,
+      "name": "Aluminum Scrap",
+      "category": "Parts",
+      "file": "/icons/Parts/241_Aluminum_Scrap.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "242": {
+      "id": 242,
+      "name": "Water",
+      "category": "Parts",
+      "file": "/icons/Parts/242_Water.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "243": {
+      "id": 243,
+      "name": "Circuit Board",
+      "category": "Parts",
+      "file": "/icons/Parts/243_Circuit_Board.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "244": {
+      "id": 244,
+      "name": "Versatile Framework",
+      "category": "Parts",
+      "file": "/icons/Parts/244_Versatile_Framework.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "245": {
+      "id": 245,
+      "name": "Caterium Ingot",
+      "category": "Parts",
+      "file": "/icons/Parts/245_Caterium_Ingot.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "246": {
+      "id": 246,
+      "name": "Polymer Resin",
+      "category": "Parts",
+      "file": "/icons/Parts/246_Polymer_Resin.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "247": {
+      "id": 247,
+      "name": "Stator",
+      "category": "Parts",
+      "file": "/icons/Parts/247_Stator.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "248": {
+      "id": 248,
+      "name": "Automated Wiring",
+      "category": "Parts",
+      "file": "/icons/Parts/248_Automated_Wiring.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "249": {
+      "id": 249,
+      "name": "Smart Plating",
+      "category": "Parts",
+      "file": "/icons/Parts/249_Smart_Plating.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "250": {
+      "id": 250,
+      "name": "Fabric",
+      "category": "Parts",
+      "file": "/icons/Parts/250_Fabric.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "251": {
+      "id": 251,
+      "name": "Aluminum Ingot",
+      "category": "Parts",
+      "file": "/icons/Parts/251_Aluminum_Ingot.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "254": {
+      "id": 254,
+      "name": "Turbofuel",
+      "category": "Parts",
+      "file": "/icons/Parts/254_Turbofuel.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "255": {
+      "id": 255,
+      "name": "Packaged Turbofuel",
+      "category": "Parts",
+      "file": "/icons/Parts/255_Packaged_Turbofuel.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "261": {
+      "id": 261,
+      "name": "Uranium Waste",
+      "category": "Parts",
+      "file": "/icons/Parts/261_Uranium_Waste.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "263": {
+      "id": 263,
+      "name": "Sulfuric Acid",
+      "category": "Parts",
+      "file": "/icons/Parts/263_Sulfuric_Acid.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "264": {
+      "id": 264,
+      "name": "Non-Fissile Uranium",
+      "category": "Parts",
+      "file": "/icons/Parts/264_Non-Fissile_Uranium.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "265": {
+      "id": 265,
+      "name": "Fused Modular Frame",
+      "category": "Parts",
+      "file": "/icons/Parts/265_Fused_Modular_Frame.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "268": {
+      "id": 268,
+      "name": "Pressure Conversion Cube",
+      "category": "Parts",
+      "file": "/icons/Parts/268_Pressure_Conversion_Cube.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "270": {
+      "id": 270,
+      "name": "Crystal Oscillator",
+      "category": "Parts",
+      "file": "/icons/Parts/270_Crystal_Oscillator.png",
+      "source": "1-part.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/Crystal_Oscillator.png?d0e57d"
+    },
+    "271": {
+      "id": 271,
+      "name": "Computer",
+      "category": "Parts",
+      "file": "/icons/Parts/271_Computer.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "272": {
+      "id": 272,
+      "name": "Packaged Nitrogen Gas",
+      "category": "Parts",
+      "file": "/icons/Parts/272_Packaged_Nitrogen_Gas.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "273": {
+      "id": 273,
+      "name": "Turbo Motor",
+      "category": "Parts",
+      "file": "/icons/Parts/273_Turbo_Motor.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "274": {
+      "id": 274,
+      "name": "Quickwire",
+      "category": "Parts",
+      "file": "/icons/Parts/274_Quickwire.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "276": {
+      "id": 276,
+      "name": "Black Powder",
+      "category": "Parts",
+      "file": "/icons/Parts/276_Black_Powder.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "282": {
+      "id": 282,
+      "name": "Solid Biofuel",
+      "category": "Parts",
+      "file": "/icons/Parts/282_Solid_Biofuel.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "285": {
+      "id": 285,
+      "name": "Modular Engine",
+      "category": "Parts",
+      "file": "/icons/Parts/285_Modular_Engine.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "286": {
+      "id": 286,
+      "name": "Adaptive Control Unit",
+      "category": "Parts",
+      "file": "/icons/Parts/286_Adaptive_Control_Unit.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "288": {
+      "id": 288,
+      "name": "Packaged Heavy Oil Residue",
+      "category": "Parts",
+      "file": "/icons/Parts/288_Packaged_Heavy_Oil_Residue.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "289": {
+      "id": 289,
+      "name": "Packaged Liquid Biofuel",
+      "category": "Parts",
+      "file": "/icons/Parts/289_Packaged_Liquid_Biofuel.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "291": {
+      "id": 291,
+      "name": "Electric Locomotive",
+      "category": "Parts",
+      "file": "/icons/Parts/291_Electric_Locomotive.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "292": {
+      "id": 292,
+      "name": "Freight Car",
+      "category": "Parts",
+      "file": "/icons/Parts/292_Freight_Car.png",
+      "source": "1-part.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/Freight_Car.png?7a5fd1"
+    },
+    "293": {
+      "id": 293,
+      "name": "Gas Filter",
+      "category": "Parts",
+      "file": "/icons/Parts/293_Gas_Filter.png",
+      "source": "1-part.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/Gas_Filter.png?cc1cbe"
+    },
+    "294": {
+      "id": 294,
+      "name": "Packaged Alumina Solution",
+      "category": "Parts",
+      "file": "/icons/Parts/294_Packaged_Alumina_Solution.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "295": {
+      "id": 295,
+      "name": "Iodine-Infused Filter",
+      "category": "Parts",
+      "file": "/icons/Parts/295_Iodine-Infused_Filter.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "296": {
+      "id": 296,
+      "name": "Packaged Sulfuric Acid",
+      "category": "Parts",
+      "file": "/icons/Parts/296_Packaged_Sulfuric_Acid.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "297": {
+      "id": 297,
+      "name": "Assembly Director System",
+      "category": "Parts",
+      "file": "/icons/Parts/297_Assembly_Director_System.png",
+      "source": "1-part.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/Assembly_Director_System.png?7be1c6"
+    },
+    "299": {
+      "id": 299,
+      "name": "Empty Fluid Tank",
+      "category": "Parts",
+      "file": "/icons/Parts/299_Empty_Fluid_Tank.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "300": {
+      "id": 300,
+      "name": "Thermal Propulsion Rocket",
+      "category": "Parts",
+      "file": "/icons/Parts/300_Thermal_Propulsion_Rocket.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "305": {
+      "id": 305,
+      "name": "Hog Remains",
+      "category": "Parts",
+      "file": "/icons/Parts/305_Hog_Remains.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "306": {
+      "id": 306,
+      "name": "Spiked Rebar",
+      "category": "Parts",
+      "file": "/icons/Parts/306_Spiked_Rebar.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "311": {
+      "id": 311,
+      "name": "Blue Power Slug",
+      "category": "Parts",
+      "file": "/icons/Parts/311_Blue_Power_Slug.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "312": {
+      "id": 312,
+      "name": "Yellow Power Slug",
+      "category": "Parts",
+      "file": "/icons/Parts/312_Yellow_Power_Slug.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "314": {
+      "id": 314,
+      "name": "Explorer",
+      "category": "Parts",
+      "file": "/icons/Parts/314_Explorer.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "315": {
+      "id": 315,
+      "name": "Rifle Cartridge",
+      "category": "Parts",
+      "file": "/icons/Parts/315_Rifle_Cartridge.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "317": {
+      "id": 317,
+      "name": "FICSMAS Bow",
+      "category": "Parts",
+      "file": "/icons/Parts/317_FICSMAS_Bow.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "318": {
+      "id": 318,
+      "name": "FICSMAS Actual Snow",
+      "category": "Parts",
+      "file": "/icons/Parts/318_FICSMAS_Actual_Snow.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "321": {
+      "id": 321,
+      "name": "Copper FICSMAS Ornament",
+      "category": "Parts",
+      "file": "/icons/Parts/321_Copper_FICSMAS_Ornament.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "322": {
+      "id": 322,
+      "name": "Iron FICSMAS Ornament",
+      "category": "Parts",
+      "file": "/icons/Parts/322_Iron_FICSMAS_Ornament.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "323": {
+      "id": 323,
+      "name": "FICSMAS Ornament Bundle",
+      "category": "Parts",
+      "file": "/icons/Parts/323_FICSMAS_Ornament_Bundle.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "327": {
+      "id": 327,
+      "name": "Cyber Wagon",
+      "category": "Parts",
+      "file": "/icons/Parts/327_Cyber_Wagon.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "338": {
+      "id": 338,
+      "name": "Radiation",
+      "category": "Other",
+      "file": "/icons/Other/338_Radiation.png",
+      "source": "3-monochrome.lua",
+      "sourceUrl": "local-existing"
+    },
+    "339": {
+      "id": 339,
+      "name": "Thumbs Up",
+      "category": "Other",
+      "file": "/icons/Other/339_Thumbs_Up.png",
+      "source": "3-monochrome.lua",
+      "sourceUrl": "local-existing"
+    },
+    "358": {
+      "id": 358,
+      "name": "Drone",
+      "category": "Other",
+      "file": "/icons/Other/358_Drone.png",
+      "source": "3-monochrome.lua",
+      "sourceUrl": "local-existing"
+    },
+    "359": {
+      "id": 359,
+      "name": "Conveyor Lift Floor Hole",
+      "category": "Buildings",
+      "file": "/icons/Buildings/359_Conveyor_Lift_Floor_Hole.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "360": {
+      "id": 360,
+      "name": "Empty Platform With Catwalk",
+      "category": "Buildings",
+      "file": "/icons/Buildings/360_Empty_Platform_With_Catwalk.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "376": {
+      "id": 376,
+      "name": "Conveyor Lift Floor Hole",
+      "category": "Buildings",
+      "file": "/icons/Buildings/376_Conveyor_Lift_Floor_Hole.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "377": {
+      "id": 377,
+      "name": "Pipeline Floor Hole",
+      "category": "Buildings",
+      "file": "/icons/Buildings/377_Pipeline_Floor_Hole.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "378": {
+      "id": 378,
+      "name": "Industrial Railing",
+      "category": "Buildings",
+      "file": "/icons/Buildings/378_Industrial_Railing.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "382": {
+      "id": 382,
+      "name": "Walkway Ramp",
+      "category": "Buildings",
+      "file": "/icons/Buildings/382_Walkway_Ramp.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "392": {
+      "id": 392,
+      "name": "Metal Beam",
+      "category": "Buildings",
+      "file": "/icons/Buildings/392_Metal_Beam.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "394": {
+      "id": 394,
+      "name": "Beam Support",
+      "category": "Buildings",
+      "file": "/icons/Buildings/394_Beam_Support.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "395": {
+      "id": 395,
+      "name": "Beam Connector",
+      "category": "Buildings",
+      "file": "/icons/Buildings/395_Beam_Connector.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "396": {
+      "id": 396,
+      "name": "Double Beam Connector",
+      "category": "Buildings",
+      "file": "/icons/Buildings/396_Double_Beam_Connector.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "397": {
+      "id": 397,
+      "name": "Small Billboard",
+      "category": "Buildings",
+      "file": "/icons/Buildings/397_Small_Billboard.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "398": {
+      "id": 398,
+      "name": "Large Billboard",
+      "category": "Buildings",
+      "file": "/icons/Buildings/398_Large_Billboard.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "400": {
+      "id": 400,
+      "name": "Catwalk Intersection",
+      "category": "Buildings",
+      "file": "/icons/Buildings/400_Catwalk_Intersection.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "402": {
+      "id": 402,
+      "name": "Catwalk Corner",
+      "category": "Buildings",
+      "file": "/icons/Buildings/402_Catwalk_Corner.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "403": {
+      "id": 403,
+      "name": "Catwalk Ramp",
+      "category": "Buildings",
+      "file": "/icons/Buildings/403_Catwalk_Ramp.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "404": {
+      "id": 404,
+      "name": "Catwalk Stairs",
+      "category": "Buildings",
+      "file": "/icons/Buildings/404_Catwalk_Stairs.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "406": {
+      "id": 406,
+      "name": "Small Concrete Pillar",
+      "category": "Buildings",
+      "file": "/icons/Buildings/406_Small_Concrete_Pillar.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "407": {
+      "id": 407,
+      "name": "Small Pillar Support",
+      "category": "Buildings",
+      "file": "/icons/Buildings/407_Small_Pillar_Support.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "422": {
+      "id": 422,
+      "name": "Display Sign",
+      "category": "Buildings",
+      "file": "/icons/Buildings/422_Display_Sign.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "423": {
+      "id": 423,
+      "name": "Portrait Sign",
+      "category": "Buildings",
+      "file": "/icons/Buildings/423_Portrait_Sign.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "424": {
+      "id": 424,
+      "name": "Square Sign (1 m)",
+      "category": "Buildings",
+      "file": "/icons/Buildings/424_Square_Sign_(1_m).png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "430": {
+      "id": 430,
+      "name": "Road Barrier",
+      "category": "Buildings",
+      "file": "/icons/Buildings/430_Road_Barrier.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "431": {
+      "id": 431,
+      "name": "Modern Railing",
+      "category": "Buildings",
+      "file": "/icons/Buildings/431_Modern_Railing.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "436": {
+      "id": 436,
+      "name": "Big Frame Pillar",
+      "category": "Buildings",
+      "file": "/icons/Buildings/436_Big_Frame_Pillar.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "437": {
+      "id": 437,
+      "name": "Small Frame Pillar",
+      "category": "Buildings",
+      "file": "/icons/Buildings/437_Small_Frame_Pillar.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "438": {
+      "id": 438,
+      "name": "Full Frame Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/438_Full_Frame_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "439": {
+      "id": 439,
+      "name": "Hex Frame Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/439_Hex_Frame_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "440": {
+      "id": 440,
+      "name": "Frame Floor",
+      "category": "Buildings",
+      "file": "/icons/Buildings/440_Frame_Floor.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "441": {
+      "id": 441,
+      "name": "Frame Foundation",
+      "category": "Buildings",
+      "file": "/icons/Buildings/441_Frame_Foundation.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "443": {
+      "id": 443,
+      "name": "Frame Ramp",
+      "category": "Buildings",
+      "file": "/icons/Buildings/443_Frame_Ramp.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "444": {
+      "id": 444,
+      "name": "Inverted Frame Ramp",
+      "category": "Buildings",
+      "file": "/icons/Buildings/444_Inverted_Frame_Ramp.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "446": {
+      "id": 446,
+      "name": "Automated Gate",
+      "category": "Buildings",
+      "file": "/icons/Buildings/446_Automated_Gate.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "447": {
+      "id": 447,
+      "name": "Hazard Storage Box",
+      "category": "Buildings",
+      "file": "/icons/Buildings/447_Hazard_Storage_Box.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "457": {
+      "id": 457,
+      "name": "Label Sign (2 m)",
+      "category": "Buildings",
+      "file": "/icons/Buildings/457_Label_Sign_(2_m).png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "458": {
+      "id": 458,
+      "name": "Label Sign (3 m)",
+      "category": "Buildings",
+      "file": "/icons/Buildings/458_Label_Sign_(3_m).png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "459": {
+      "id": 459,
+      "name": "Label Sign (4 m)",
+      "category": "Buildings",
+      "file": "/icons/Buildings/459_Label_Sign_(4_m).png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "460": {
+      "id": 460,
+      "name": "Square Sign (0.5 m)",
+      "category": "Buildings",
+      "file": "/icons/Buildings/460_Square_Sign_(0.5_m).png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "461": {
+      "id": 461,
+      "name": "Medical Storage Box",
+      "category": "Buildings",
+      "file": "/icons/Buildings/461_Medical_Storage_Box.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "502": {
+      "id": 502,
+      "name": "Single Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/502_Single_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "503": {
+      "id": 503,
+      "name": "Frame Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/503_Frame_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "504": {
+      "id": 504,
+      "name": "Panel Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/504_Panel_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "505": {
+      "id": 505,
+      "name": "Reinforced Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/505_Reinforced_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "591": {
+      "id": 591,
+      "name": "Single Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/591_Single_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "592": {
+      "id": 592,
+      "name": "Reinforced Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/592_Reinforced_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "593": {
+      "id": 593,
+      "name": "Frame Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/593_Frame_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "594": {
+      "id": 594,
+      "name": "Panel Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/594_Panel_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "595": {
+      "id": 595,
+      "name": "Golden Factory Cart™",
+      "category": "Equipment",
+      "file": "/icons/Equipment/595_Golden_Factory_Cart.png",
+      "source": "2-equipment.lua",
+      "sourceUrl": "local-existing"
+    },
+    "596": {
+      "id": 596,
+      "name": "Block Signal",
+      "category": "Buildings",
+      "file": "/icons/Buildings/596_Block_Signal.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "600": {
+      "id": 600,
+      "name": "Clap Emote",
+      "category": "Other",
+      "file": "/icons/Other/600_Clap_Emote.png",
+      "source": "5-custom.lua",
+      "sourceUrl": "local-existing"
+    },
+    "601": {
+      "id": 601,
+      "name": "Facepalm Emote",
+      "category": "Other",
+      "file": "/icons/Other/601_Facepalm_Emote.png",
+      "source": "5-custom.lua",
+      "sourceUrl": "local-existing"
+    },
+    "602": {
+      "id": 602,
+      "name": "Heart Emote",
+      "category": "Other",
+      "file": "/icons/Other/602_Heart_Emote.png",
+      "source": "5-custom.lua",
+      "sourceUrl": "local-existing"
+    },
+    "604": {
+      "id": 604,
+      "name": "Rock Emote",
+      "category": "Other",
+      "file": "/icons/Other/604_Rock_Emote.png",
+      "source": "5-custom.lua",
+      "sourceUrl": "local-existing"
+    },
+    "605": {
+      "id": 605,
+      "name": "Scissors Emote",
+      "category": "Other",
+      "file": "/icons/Other/605_Scissors_Emote.png",
+      "source": "5-custom.lua",
+      "sourceUrl": "local-existing"
+    },
+    "606": {
+      "id": 606,
+      "name": "Point Emote",
+      "category": "Other",
+      "file": "/icons/Other/606_Point_Emote.png",
+      "source": "5-custom.lua",
+      "sourceUrl": "local-existing"
+    },
+    "607": {
+      "id": 607,
+      "name": "Wave Emote",
+      "category": "Other",
+      "file": "/icons/Other/607_Wave_Emote.png",
+      "source": "5-custom.lua",
+      "sourceUrl": "local-existing"
+    },
+    "609": {
+      "id": 609,
+      "name": "Lizard Doggo",
+      "category": "Other",
+      "file": "/icons/Other/609_Lizard_Doggo.png",
+      "source": "5-custom.lua",
+      "sourceUrl": "local-existing"
+    },
+    "617": {
+      "id": 617,
+      "name": "FICSMAS Gift",
+      "category": "Other",
+      "file": "/icons/Other/617_FICSMAS_Gift.png",
+      "source": "5-custom.lua",
+      "sourceUrl": "local-existing"
+    },
+    "619": {
+      "id": 619,
+      "name": "Hypertube Floor Hole",
+      "category": "Buildings",
+      "file": "/icons/Buildings/619_Hypertube_Floor_Hole.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "646": {
+      "id": 646,
+      "name": "Sweet Fireworks",
+      "category": "Parts",
+      "file": "/icons/Parts/646_Sweet_Fireworks.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "647": {
+      "id": 647,
+      "name": "Fancy Fireworks",
+      "category": "Parts",
+      "file": "/icons/Parts/647_Fancy_Fireworks.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "648": {
+      "id": 648,
+      "name": "Sparkly Fireworks",
+      "category": "Parts",
+      "file": "/icons/Parts/648_Sparkly_Fireworks.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "653": {
+      "id": 653,
+      "name": "Crate",
+      "category": "Other",
+      "file": "/icons/Other/653_Crate.png",
+      "source": "6-map_stamp.lua",
+      "sourceUrl": "local-existing"
+    },
+    "659": {
+      "id": 659,
+      "name": "Radiation",
+      "category": "Other",
+      "file": "/icons/Other/659_Radiation.png",
+      "source": "6-map_stamp.lua",
+      "sourceUrl": "local-existing"
+    },
+    "664": {
+      "id": 664,
+      "name": "Pipeline Mk.1",
+      "category": "Buildings",
+      "file": "/icons/Buildings/664_Pipeline_Mk.1.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "665": {
+      "id": 665,
+      "name": "Pipeline Mk.2",
+      "category": "Buildings",
+      "file": "/icons/Buildings/665_Pipeline_Mk.2.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "672": {
+      "id": 672,
+      "name": "Alien Protein",
+      "category": "Parts",
+      "file": "/icons/Parts/672_Alien_Protein.png",
+      "source": "1-part.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/Alien_Protein.png?1798cc"
+    },
+    "673": {
+      "id": 673,
+      "name": "Iron Rebar",
+      "category": "Parts",
+      "file": "/icons/Parts/673_Iron_Rebar.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "674": {
+      "id": 674,
+      "name": "Alien DNA Capsule",
+      "category": "Parts",
+      "file": "/icons/Parts/674_Alien_DNA_Capsule.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "675": {
+      "id": 675,
+      "name": "Hatcher Remains",
+      "category": "Parts",
+      "file": "/icons/Parts/675_Hatcher_Remains.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "676": {
+      "id": 676,
+      "name": "Stinger Remains",
+      "category": "Parts",
+      "file": "/icons/Parts/676_Stinger_Remains.png",
+      "source": "1-part.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/Stinger_Remains.png?c8bfb0"
+    },
+    "677": {
+      "id": 677,
+      "name": "Stun Rebar",
+      "category": "Parts",
+      "file": "/icons/Parts/677_Stun_Rebar.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "678": {
+      "id": 678,
+      "name": "Rifle Ammo",
+      "category": "Parts",
+      "file": "/icons/Parts/678_Rifle_Ammo.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "680": {
+      "id": 680,
+      "name": "Gas Nobelisk",
+      "category": "Parts",
+      "file": "/icons/Parts/680_Gas_Nobelisk.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "681": {
+      "id": 681,
+      "name": "Shatter Rebar",
+      "category": "Parts",
+      "file": "/icons/Parts/681_Shatter_Rebar.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "683": {
+      "id": 683,
+      "name": "Smokeless Powder",
+      "category": "Parts",
+      "file": "/icons/Parts/683_Smokeless_Powder.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "684": {
+      "id": 684,
+      "name": "Cluster Nobelisk",
+      "category": "Parts",
+      "file": "/icons/Parts/684_Cluster_Nobelisk.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "685": {
+      "id": 685,
+      "name": "Explosive Rebar",
+      "category": "Parts",
+      "file": "/icons/Parts/685_Explosive_Rebar.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "686": {
+      "id": 686,
+      "name": "Nuke Nobelisk",
+      "category": "Parts",
+      "file": "/icons/Parts/686_Nuke_Nobelisk.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "687": {
+      "id": 687,
+      "name": "Turbo Rifle Ammo",
+      "category": "Parts",
+      "file": "/icons/Parts/687_Turbo_Rifle_Ammo.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "743": {
+      "id": 743,
+      "name": "Quarter Pipe",
+      "category": "Buildings",
+      "file": "/icons/Buildings/743_Quarter_Pipe.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "746": {
+      "id": 746,
+      "name": "Inverted Quarter Pipe",
+      "category": "Buildings",
+      "file": "/icons/Buildings/746_Inverted_Quarter_Pipe.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "749": {
+      "id": 749,
+      "name": "Quarter Pipe",
+      "category": "Buildings",
+      "file": "/icons/Buildings/749_Quarter_Pipe.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "752": {
+      "id": 752,
+      "name": "Inverted Quarter Pipe",
+      "category": "Buildings",
+      "file": "/icons/Buildings/752_Inverted_Quarter_Pipe.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "755": {
+      "id": 755,
+      "name": "Quarter Pipe",
+      "category": "Buildings",
+      "file": "/icons/Buildings/755_Quarter_Pipe.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "761": {
+      "id": 761,
+      "name": "Quarter Pipe",
+      "category": "Buildings",
+      "file": "/icons/Buildings/761_Quarter_Pipe.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "783": {
+      "id": 783,
+      "name": "Power Tower",
+      "category": "Buildings",
+      "file": "/icons/Buildings/783_Power_Tower.png",
+      "source": "0-building.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/Power_Tower.png?347ca9"
+    },
+    "784": {
+      "id": 784,
+      "name": "Power Tower Platform",
+      "category": "Buildings",
+      "file": "/icons/Buildings/784_Power_Tower_Platform.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "785": {
+      "id": 785,
+      "name": "Priority Power Switch",
+      "category": "Buildings",
+      "file": "/icons/Buildings/785_Priority_Power_Switch.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "786": {
+      "id": 786,
+      "name": "Blueprint Designer Mk.1",
+      "category": "Buildings",
+      "file": "/icons/Buildings/786_Blueprint_Designer_Mk.1.png",
+      "source": "0-building.lua",
+      "sourceUrl": "https://satisfactory.wiki.gg/images/Blueprint_Designer_Mk.1.png?6fb932"
+    },
+    "787": {
+      "id": 787,
+      "name": "Conveyor Wall Mount",
+      "category": "Buildings",
+      "file": "/icons/Buildings/787_Conveyor_Wall_Mount.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "788": {
+      "id": 788,
+      "name": "Conveyor Ceiling Mount",
+      "category": "Buildings",
+      "file": "/icons/Buildings/788_Conveyor_Ceiling_Mount.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "791": {
+      "id": 791,
+      "name": "Main Portal",
+      "category": "Buildings",
+      "file": "/icons/Buildings/791_Main_Portal.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "792": {
+      "id": 792,
+      "name": "Satellite Portal",
+      "category": "Buildings",
+      "file": "/icons/Buildings/792_Satellite_Portal.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "794": {
+      "id": 794,
+      "name": "Conveyor Lift Mk.6",
+      "category": "Buildings",
+      "file": "/icons/Buildings/794_Conveyor_Lift_Mk.6.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "795": {
+      "id": 795,
+      "name": "Quantum Encoder",
+      "category": "Buildings",
+      "file": "/icons/Buildings/795_Quantum_Encoder.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "797": {
+      "id": 797,
+      "name": "Dimensional Depot Uploader",
+      "category": "Buildings",
+      "file": "/icons/Buildings/797_Dimensional_Depot_Uploader.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "798": {
+      "id": 798,
+      "name": "Alien Power Augmenter",
+      "category": "Buildings",
+      "file": "/icons/Buildings/798_Alien_Power_Augmenter.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "799": {
+      "id": 799,
+      "name": "SAM Fluctuator",
+      "category": "Parts",
+      "file": "/icons/Parts/799_SAM_Fluctuator.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "800": {
+      "id": 800,
+      "name": "Superposition Oscillator",
+      "category": "Parts",
+      "file": "/icons/Parts/800_Superposition_Oscillator.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "801": {
+      "id": 801,
+      "name": "Ficsite Trigon",
+      "category": "Parts",
+      "file": "/icons/Parts/801_Ficsite_Trigon.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "802": {
+      "id": 802,
+      "name": "Rocket Fuel",
+      "category": "Parts",
+      "file": "/icons/Parts/802_Rocket_Fuel.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "803": {
+      "id": 803,
+      "name": "Packaged Ionized Fuel",
+      "category": "Parts",
+      "file": "/icons/Parts/803_Packaged_Ionized_Fuel.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "805": {
+      "id": 805,
+      "name": "Singularity Cell",
+      "category": "Parts",
+      "file": "/icons/Parts/805_Singularity_Cell.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "806": {
+      "id": 806,
+      "name": "Time Crystal",
+      "category": "Parts",
+      "file": "/icons/Parts/806_Time_Crystal.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "808": {
+      "id": 808,
+      "name": "Ballistic Warp Drive",
+      "category": "Parts",
+      "file": "/icons/Parts/808_Ballistic_Warp_Drive.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "809": {
+      "id": 809,
+      "name": "Reanimated SAM",
+      "category": "Parts",
+      "file": "/icons/Parts/809_Reanimated_SAM.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "811": {
+      "id": 811,
+      "name": "Dark Matter Crystal",
+      "category": "Parts",
+      "file": "/icons/Parts/811_Dark_Matter_Crystal.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "812": {
+      "id": 812,
+      "name": "AI Expansion Server",
+      "category": "Parts",
+      "file": "/icons/Parts/812_AI_Expansion_Server.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "813": {
+      "id": 813,
+      "name": "Ficsite Ingot",
+      "category": "Parts",
+      "file": "/icons/Parts/813_Ficsite_Ingot.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "814": {
+      "id": 814,
+      "name": "Biochemical Sculptor",
+      "category": "Parts",
+      "file": "/icons/Parts/814_Biochemical_Sculptor.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "815": {
+      "id": 815,
+      "name": "Plutonium Waste",
+      "category": "Parts",
+      "file": "/icons/Parts/815_Plutonium_Waste.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "818": {
+      "id": 818,
+      "name": "Alien Power Matrix",
+      "category": "Parts",
+      "file": "/icons/Parts/818_Alien_Power_Matrix.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "820": {
+      "id": 820,
+      "name": "Blueprint Designer Mk.2",
+      "category": "Buildings",
+      "file": "/icons/Buildings/820_Blueprint_Designer_Mk.2.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "837": {
+      "id": 837,
+      "name": "Honeycomb Frame Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/837_Honeycomb_Frame_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "838": {
+      "id": 838,
+      "name": "Triple Frame Window",
+      "category": "Buildings",
+      "file": "/icons/Buildings/838_Triple_Frame_Window.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "840": {
+      "id": 840,
+      "name": "Tarp Construction Fence",
+      "category": "Buildings",
+      "file": "/icons/Buildings/840_Tarp_Construction_Fence.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "841": {
+      "id": 841,
+      "name": "Construction Fence",
+      "category": "Buildings",
+      "file": "/icons/Buildings/841_Construction_Fence.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "843": {
+      "id": 843,
+      "name": "High Barrier",
+      "category": "Buildings",
+      "file": "/icons/Buildings/843_High_Barrier.png",
+      "source": "0-building.lua",
+      "sourceUrl": "local-existing"
+    },
+    "844": {
+      "id": 844,
+      "name": "Excited Photonic Matter",
+      "category": "Parts",
+      "file": "/icons/Parts/844_Excited_Photonic_Matter.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "846": {
+      "id": 846,
+      "name": "Turbofuel",
+      "category": "Parts",
+      "file": "/icons/Parts/846_Turbofuel.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "847": {
+      "id": 847,
+      "name": "Packaged Rocket Fuel",
+      "category": "Parts",
+      "file": "/icons/Parts/847_Packaged_Rocket_Fuel.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "849": {
+      "id": 849,
+      "name": "Nitrogen Gas",
+      "category": "Parts",
+      "file": "/icons/Parts/849_Nitrogen_Gas.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "851": {
+      "id": 851,
+      "name": "Ionized Fuel",
+      "category": "Parts",
+      "file": "/icons/Parts/851_Ionized_Fuel.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "852": {
+      "id": 852,
+      "name": "Water",
+      "category": "Parts",
+      "file": "/icons/Parts/852_Water.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "853": {
+      "id": 853,
+      "name": "Heavy Oil Residue",
+      "category": "Parts",
+      "file": "/icons/Parts/853_Heavy_Oil_Residue.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "855": {
+      "id": 855,
+      "name": "Alumina Solution",
+      "category": "Parts",
+      "file": "/icons/Parts/855_Alumina_Solution.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    },
+    "856": {
+      "id": 856,
+      "name": "Sulfuric Acid",
+      "category": "Parts",
+      "file": "/icons/Parts/856_Sulfuric_Acid.png",
+      "source": "1-part.lua",
+      "sourceUrl": "local-existing"
+    }
+  }
+}

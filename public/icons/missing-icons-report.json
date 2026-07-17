@@ -1,0 +1,5945 @@
+{
+  "generatedAt": "2026-07-17T07:03:45.645Z",
+  "missing": [
+    {
+      "id": 15,
+      "name": "",
+      "reason": "empty-name",
+      "sourceFileName": "0-building.lua"
+    },
+    {
+      "id": 17,
+      "name": "",
+      "reason": "empty-name",
+      "sourceFileName": "0-building.lua"
+    },
+    {
+      "id": 24,
+      "name": "WalkwayStairs_01",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "WalkwayStairs_01.png",
+        "WalkwayStairs_01.webp"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Stairs",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Stairs.png",
+        "Stairs.webp"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Foundation 4x16",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation 4x16.png",
+        "Foundation_4x16.png",
+        "Foundation 4x16.webp",
+        "Foundation_4x16.webp"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Ramp (8 m x 1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (8 m x 1 m).png",
+        "Ramp (8 m x 1 m).png",
+        "Ramp_(8_m_x_1_m).png",
+        "Ramp (8 m x 1 m).webp",
+        "Ramp (8 m x 1 m).webp",
+        "Ramp_(8_m_x_1_m).webp"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Foundation (8 m x 2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (8 m x 2 m).png",
+        "Foundation (8 m x 2 m).png",
+        "Foundation_(8_m_x_2_m).png",
+        "Foundation (8 m x 2 m).webp",
+        "Foundation (8 m x 2 m).webp",
+        "Foundation_(8_m_x_2_m).webp"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Foundation (8 m x 1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (8 m x 1 m).png",
+        "Foundation (8 m x 1 m).png",
+        "Foundation_(8_m_x_1_m).png",
+        "Foundation (8 m x 1 m).webp",
+        "Foundation (8 m x 1 m).webp",
+        "Foundation_(8_m_x_1_m).webp"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Ramp (8 m x 2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (8 m x 2 m).png",
+        "Ramp (8 m x 2 m).png",
+        "Ramp_(8_m_x_2_m).png",
+        "Ramp (8 m x 2 m).webp",
+        "Ramp (8 m x 2 m).webp",
+        "Ramp_(8_m_x_2_m).webp"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "MAM",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "MAM.png",
+        "MAM.webp"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Wall 8m x 4m",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Wall 8m x 4m.png",
+        "Wall_8m_x_4m.png",
+        "Wall 8m x 4m.webp",
+        "Wall_8m_x_4m.webp"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Ramp (8 m x 4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (8 m x 4 m).png",
+        "Ramp (8 m x 4 m).png",
+        "Ramp_(8_m_x_4_m).png",
+        "Ramp (8 m x 4 m).webp",
+        "Ramp (8 m x 4 m).webp",
+        "Ramp_(8_m_x_4_m).webp"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Personal Storage Box",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Personal Storage Box.png",
+        "Personal_Storage_Box.png",
+        "Personal Storage Box.webp",
+        "Personal_Storage_Box.webp"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Conveyor Lift Mk.1",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Conveyor Lift Mk.1.png",
+        "Conveyor_Lift_Mk.1.png",
+        "Conveyor Lift Mk.1.webp",
+        "Conveyor_Lift_Mk.1.webp"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Conveyor Wall x 3",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Conveyor Wall x 3.png",
+        "Conveyor_Wall_x_3.png",
+        "Conveyor Wall x 3.webp",
+        "Conveyor_Wall_x_3.webp"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "",
+      "reason": "empty-name",
+      "sourceFileName": "0-building.lua"
+    },
+    {
+      "id": 58,
+      "name": "",
+      "reason": "empty-name",
+      "sourceFileName": "0-building.lua"
+    },
+    {
+      "id": 51,
+      "name": "Conveyor Wall x 3",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Conveyor Wall x 3.png",
+        "Conveyor_Wall_x_3.png",
+        "Conveyor Wall x 3.webp",
+        "Conveyor_Wall_x_3.webp"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Conveyor Wall x 2",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Conveyor Wall x 2.png",
+        "Conveyor_Wall_x_2.png",
+        "Conveyor Wall x 2.webp",
+        "Conveyor_Wall_x_2.webp"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Conveyor Wall x 1",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Conveyor Wall x 1.png",
+        "Conveyor_Wall_x_1.png",
+        "Conveyor Wall x 1.webp",
+        "Conveyor_Wall_x_1.webp"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Conveyor Wall x 2",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Conveyor Wall x 2.png",
+        "Conveyor_Wall_x_2.png",
+        "Conveyor Wall x 2.webp",
+        "Conveyor_Wall_x_2.webp"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Conveyor Wall x 1",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Conveyor Wall x 1.png",
+        "Conveyor_Wall_x_1.png",
+        "Conveyor Wall x 1.webp",
+        "Conveyor_Wall_x_1.webp"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Walkway Crossing",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Walkway Crossing.png",
+        "Walkway_Crossing.png",
+        "Walkway Crossing.webp",
+        "Walkway_Crossing.webp"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "AWESOME Sink",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "AWESOME Sink.png",
+        "AWESOME_Sink.png",
+        "AWESOME Sink.webp",
+        "AWESOME_Sink.webp"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "AWESOME Shop",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "AWESOME Shop.png",
+        "AWESOME_Shop.png",
+        "AWESOME Shop.webp",
+        "AWESOME_Shop.webp"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Coal-Powered Generator",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Coal-Powered Generator.png",
+        "Coal-Powered_Generator.png",
+        "Coal-Powered Generator.webp",
+        "Coal-Powered_Generator.webp"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Inner Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Quarter Pipe.png",
+        "Inner_Corner_Quarter_Pipe.png",
+        "Inner Corner Quarter Pipe.webp",
+        "Inner_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Water Extractor",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Water Extractor.png",
+        "Water_Extractor.png",
+        "Water Extractor.webp",
+        "Water_Extractor.webp"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Inverted Inner Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Inner Corner Quarter Pipe.png",
+        "Inverted_Inner_Corner_Quarter_Pipe.png",
+        "Inverted Inner Corner Quarter Pipe.webp",
+        "Inverted_Inner_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Outer Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Quarter Pipe.png",
+        "Outer_Corner_Quarter_Pipe.png",
+        "Outer Corner Quarter Pipe.webp",
+        "Outer_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Up Corner Ramp (8 m x 1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (8 m x 1 m).png",
+        "Up Corner Ramp (8 m x 1 m).png",
+        "Up_Corner_Ramp_(8_m_x_1_m).png",
+        "Up Corner Ramp (8 m x 1 m).webp",
+        "Up Corner Ramp (8 m x 1 m).webp",
+        "Up_Corner_Ramp_(8_m_x_1_m).webp"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Up Corner Ramp (8 m x 2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (8 m x 2 m).png",
+        "Up Corner Ramp (8 m x 2 m).png",
+        "Up_Corner_Ramp_(8_m_x_2_m).png",
+        "Up Corner Ramp (8 m x 2 m).webp",
+        "Up Corner Ramp (8 m x 2 m).webp",
+        "Up_Corner_Ramp_(8_m_x_2_m).webp"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Up Corner Ramp (8 m x 4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (8 m x 4 m).png",
+        "Up Corner Ramp (8 m x 4 m).png",
+        "Up_Corner_Ramp_(8_m_x_4_m).png",
+        "Up Corner Ramp (8 m x 4 m).webp",
+        "Up Corner Ramp (8 m x 4 m).webp",
+        "Up_Corner_Ramp_(8_m_x_4_m).webp"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Down Corner Ramp (8 m x 1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (8 m x 1 m).png",
+        "Down Corner Ramp (8 m x 1 m).png",
+        "Down_Corner_Ramp_(8_m_x_1_m).png",
+        "Down Corner Ramp (8 m x 1 m).webp",
+        "Down Corner Ramp (8 m x 1 m).webp",
+        "Down_Corner_Ramp_(8_m_x_1_m).webp"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "Down Corner Ramp (8 m x 4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (8 m x 4 m).png",
+        "Down Corner Ramp (8 m x 4 m).png",
+        "Down_Corner_Ramp_(8_m_x_4_m).png",
+        "Down Corner Ramp (8 m x 4 m).webp",
+        "Down Corner Ramp (8 m x 4 m).webp",
+        "Down_Corner_Ramp_(8_m_x_4_m).webp"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Center Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Center Door Wall.png",
+        "Center_Door_Wall.png",
+        "Center Door Wall.webp",
+        "Center_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Down Corner Ramp (8 m x 2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (8 m x 2 m).png",
+        "Down Corner Ramp (8 m x 2 m).png",
+        "Down_Corner_Ramp_(8_m_x_2_m).png",
+        "Down Corner Ramp (8 m x 2 m).webp",
+        "Down Corner Ramp (8 m x 2 m).webp",
+        "Down_Corner_Ramp_(8_m_x_2_m).webp"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Left Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Left Door Wall.png",
+        "Left_Door_Wall.png",
+        "Left Door Wall.webp",
+        "Left_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Right Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Right Door Wall.png",
+        "Right_Door_Wall.png",
+        "Right Door Wall.webp",
+        "Right_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Center Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Center Door Wall.png",
+        "Center_Door_Wall.png",
+        "Center Door Wall.webp",
+        "Center_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Right Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Right Door Wall.png",
+        "Right_Door_Wall.png",
+        "Right Door Wall.webp",
+        "Right_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Left Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Left Door Wall.png",
+        "Left_Door_Wall.png",
+        "Left Door Wall.webp",
+        "Left_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Double Ramp (8 m x 2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (8 m x 2 m).png",
+        "Double Ramp (8 m x 2 m).png",
+        "Double_Ramp_(8_m_x_2_m).png",
+        "Double Ramp (8 m x 2 m).webp",
+        "Double Ramp (8 m x 2 m).webp",
+        "Double_Ramp_(8_m_x_2_m).webp"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Double Ramp (8 m x 4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (8 m x 4 m).png",
+        "Double Ramp (8 m x 4 m).png",
+        "Double_Ramp_(8_m_x_4_m).png",
+        "Double Ramp (8 m x 4 m).webp",
+        "Double Ramp (8 m x 4 m).webp",
+        "Double_Ramp_(8_m_x_4_m).webp"
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Double Ramp (8 m x 8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (8 m x 8 m).png",
+        "Double Ramp (8 m x 8 m).png",
+        "Double_Ramp_(8_m_x_8_m).png",
+        "Double Ramp (8 m x 8 m).webp",
+        "Double Ramp (8 m x 8 m).webp",
+        "Double_Ramp_(8_m_x_8_m).webp"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Frame Foundation (8 m x 4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Frame Foundation (8 m x 4 m).png",
+        "Frame Foundation (8 m x 4 m).png",
+        "Frame_Foundation_(8_m_x_4_m).png",
+        "Frame Foundation (8 m x 4 m).webp",
+        "Frame Foundation (8 m x 4 m).webp",
+        "Frame_Foundation_(8_m_x_4_m).webp"
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Inverted Up Corner (8 m x 1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (8 m x 1 m).png",
+        "Inverted Up Corner (8 m x 1 m).png",
+        "Inverted_Up_Corner_(8_m_x_1_m).png",
+        "Inverted Up Corner (8 m x 1 m).webp",
+        "Inverted Up Corner (8 m x 1 m).webp",
+        "Inverted_Up_Corner_(8_m_x_1_m).webp"
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Inverted Up Corner (8 m x 2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (8 m x 2 m).png",
+        "Inverted Up Corner (8 m x 2 m).png",
+        "Inverted_Up_Corner_(8_m_x_2_m).png",
+        "Inverted Up Corner (8 m x 2 m).webp",
+        "Inverted Up Corner (8 m x 2 m).webp",
+        "Inverted_Up_Corner_(8_m_x_2_m).webp"
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Inverted Up Corner (8 m x 4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (8 m x 4 m).png",
+        "Inverted Up Corner (8 m x 4 m).png",
+        "Inverted_Up_Corner_(8_m_x_4_m).png",
+        "Inverted Up Corner (8 m x 4 m).webp",
+        "Inverted Up Corner (8 m x 4 m).webp",
+        "Inverted_Up_Corner_(8_m_x_4_m).webp"
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Inverted Down Corner (8 m x 1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (8 m x 1 m).png",
+        "Inverted Down Corner (8 m x 1 m).png",
+        "Inverted_Down_Corner_(8_m_x_1_m).png",
+        "Inverted Down Corner (8 m x 1 m).webp",
+        "Inverted Down Corner (8 m x 1 m).webp",
+        "Inverted_Down_Corner_(8_m_x_1_m).webp"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "Inverted Down Corner (8 m x 2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (8 m x 2 m).png",
+        "Inverted Down Corner (8 m x 2 m).png",
+        "Inverted_Down_Corner_(8_m_x_2_m).png",
+        "Inverted Down Corner (8 m x 2 m).webp",
+        "Inverted Down Corner (8 m x 2 m).webp",
+        "Inverted_Down_Corner_(8_m_x_2_m).webp"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Inverted Down Corner (8 m x 4m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (8 m x 4m).png",
+        "Inverted Down Corner (8 m x 4m).png",
+        "Inverted_Down_Corner_(8_m_x_4m).png",
+        "Inverted Down Corner (8 m x 4m).webp",
+        "Inverted Down Corner (8 m x 4m).webp",
+        "Inverted_Down_Corner_(8_m_x_4m).webp"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Beacon",
+      "reason": "download-failed",
+      "sourceFileName": "2-equipment.lua",
+      "tried": [
+        "Beacon.png",
+        "Beacon.webp"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Inverted Ramp (8 m x 1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (8 m x 1 m).png",
+        "Inverted Ramp (8 m x 1 m).png",
+        "Inverted_Ramp_(8_m_x_1_m).png",
+        "Inverted Ramp (8 m x 1 m).webp",
+        "Inverted Ramp (8 m x 1 m).webp",
+        "Inverted_Ramp_(8_m_x_1_m).webp"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Portable Miner",
+      "reason": "download-failed",
+      "sourceFileName": "2-equipment.lua",
+      "tried": [
+        "Portable Miner.png",
+        "Portable_Miner.png",
+        "Portable Miner.webp",
+        "Portable_Miner.webp"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Inverted Ramp (8 m x 2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (8 m x 2 m).png",
+        "Inverted Ramp (8 m x 2 m).png",
+        "Inverted_Ramp_(8_m_x_2_m).png",
+        "Inverted Ramp (8 m x 2 m).webp",
+        "Inverted Ramp (8 m x 2 m).webp",
+        "Inverted_Ramp_(8_m_x_2_m).webp"
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Xeno-Basher",
+      "reason": "download-failed",
+      "sourceFileName": "2-equipment.lua",
+      "tried": [
+        "Xeno-Basher.png",
+        "Xeno-Basher.webp"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Inverted Ramp (8 m x 4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (8 m x 4 m).png",
+        "Inverted Ramp (8 m x 4 m).png",
+        "Inverted_Ramp_(8_m_x_4_m).png",
+        "Inverted Ramp (8 m x 4 m).webp",
+        "Inverted Ramp (8 m x 4 m).webp",
+        "Inverted_Ramp_(8_m_x_4_m).webp"
+      ]
+    },
+    {
+      "id": 177,
+      "name": "Jetpack",
+      "reason": "download-failed",
+      "sourceFileName": "2-equipment.lua",
+      "tried": [
+        "Jetpack.png",
+        "Jetpack.webp"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Object Scanner",
+      "reason": "download-failed",
+      "sourceFileName": "2-equipment.lua",
+      "tried": [
+        "Object Scanner.png",
+        "Object_Scanner.png",
+        "Object Scanner.webp",
+        "Object_Scanner.webp"
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Hoverpack",
+      "reason": "download-failed",
+      "sourceFileName": "2-equipment.lua",
+      "tried": [
+        "Hoverpack.png",
+        "Hoverpack.webp"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Nobelisk Detonator",
+      "reason": "download-failed",
+      "sourceFileName": "2-equipment.lua",
+      "tried": [
+        "Nobelisk Detonator.png",
+        "Nobelisk_Detonator.png",
+        "Nobelisk Detonator.webp",
+        "Nobelisk_Detonator.webp"
+      ]
+    },
+    {
+      "id": 187,
+      "name": "Paleberry",
+      "reason": "download-failed",
+      "sourceFileName": "2-equipment.lua",
+      "tried": [
+        "Paleberry.png",
+        "Paleberry.webp"
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Gas Mask",
+      "reason": "download-failed",
+      "sourceFileName": "2-equipment.lua",
+      "tried": [
+        "Gas Mask.png",
+        "Gas_Mask.png",
+        "Gas Mask.webp",
+        "Gas_Mask.webp"
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Fuel",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Fuel.png",
+        "Fuel.webp"
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Bacon Agaric",
+      "reason": "download-failed",
+      "sourceFileName": "2-equipment.lua",
+      "tried": [
+        "Bacon Agaric.png",
+        "Bacon_Agaric.png",
+        "Bacon Agaric.webp",
+        "Bacon_Agaric.webp"
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Battery",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Battery.png",
+        "Battery.webp"
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Snowball Pile",
+      "reason": "download-failed",
+      "sourceFileName": "2-equipment.lua",
+      "tried": [
+        "Snowball Pile.png",
+        "Snowball_Pile.png",
+        "Snowball Pile.webp",
+        "Snowball_Pile.webp"
+      ]
+    },
+    {
+      "id": 218,
+      "name": "Quartz Crystal",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Quartz Crystal.png",
+        "Quartz_Crystal.png",
+        "Quartz Crystal.webp",
+        "Quartz_Crystal.webp"
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Compacted Coal",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Compacted Coal.png",
+        "Compacted_Coal.png",
+        "Compacted Coal.webp",
+        "Compacted_Coal.webp"
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Steel Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Steel Pipe.png",
+        "Steel_Pipe.png",
+        "Steel Pipe.webp",
+        "Steel_Pipe.webp"
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Heat Sink",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Heat Sink.png",
+        "Heat_Sink.png",
+        "Heat Sink.webp",
+        "Heat_Sink.webp"
+      ]
+    },
+    {
+      "id": 267,
+      "name": "Supercomputer",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Supercomputer.png",
+        "Supercomputer.webp"
+      ]
+    },
+    {
+      "id": 259,
+      "name": "Cooling System",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Cooling System.png",
+        "Cooling_System.png",
+        "Cooling System.webp",
+        "Cooling_System.webp"
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Electromagnetic Control Rod",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Electromagnetic Control Rod.png",
+        "Electromagnetic_Control_Rod.png",
+        "Electromagnetic Control Rod.webp",
+        "Electromagnetic_Control_Rod.webp"
+      ]
+    },
+    {
+      "id": 262,
+      "name": "Nitric Acid",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Nitric Acid.png",
+        "Nitric_Acid.png",
+        "Nitric Acid.webp",
+        "Nitric_Acid.webp"
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Encased Plutonium Cell",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Encased Plutonium Cell.png",
+        "Encased_Plutonium_Cell.png",
+        "Encased Plutonium Cell.webp",
+        "Encased_Plutonium_Cell.webp"
+      ]
+    },
+    {
+      "id": 277,
+      "name": "Nobelisk",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Nobelisk.png",
+        "Nobelisk.webp"
+      ]
+    },
+    {
+      "id": 275,
+      "name": "Silica",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Silica.png",
+        "Silica.webp"
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Plutonium Fuel Rod",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Plutonium Fuel Rod.png",
+        "Plutonium_Fuel_Rod.png",
+        "Plutonium Fuel Rod.webp",
+        "Plutonium_Fuel_Rod.webp"
+      ]
+    },
+    {
+      "id": 280,
+      "name": "SAM",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "SAM.png",
+        "SAM.webp"
+      ]
+    },
+    {
+      "id": 283,
+      "name": "Tractor",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Tractor.png",
+        "Tractor.webp"
+      ]
+    },
+    {
+      "id": 284,
+      "name": "Truck",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Truck.png",
+        "Truck.webp"
+      ]
+    },
+    {
+      "id": 279,
+      "name": "Uranium Fuel Rod",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Uranium Fuel Rod.png",
+        "Uranium_Fuel_Rod.png",
+        "Uranium Fuel Rod.webp",
+        "Uranium_Fuel_Rod.webp"
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Encased Uranium Cell",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Encased Uranium Cell.png",
+        "Encased_Uranium_Cell.png",
+        "Encased Uranium Cell.webp",
+        "Encased_Uranium_Cell.webp"
+      ]
+    },
+    {
+      "id": 281,
+      "name": "Power Shard",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Power Shard.png",
+        "Power_Shard.png",
+        "Power Shard.webp",
+        "Power_Shard.webp"
+      ]
+    },
+    {
+      "id": 287,
+      "name": "Packaged Oil",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Packaged Oil.png",
+        "Packaged_Oil.png",
+        "Packaged Oil.webp",
+        "Packaged_Oil.webp"
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Liquid Biofuel",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Liquid Biofuel.png",
+        "Liquid_Biofuel.png",
+        "Liquid Biofuel.webp",
+        "Liquid_Biofuel.webp"
+      ]
+    },
+    {
+      "id": 298,
+      "name": "Magnetic Field Generator",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Magnetic Field Generator.png",
+        "Magnetic_Field_Generator.png",
+        "Magnetic Field Generator.webp",
+        "Magnetic_Field_Generator.webp"
+      ]
+    },
+    {
+      "id": 303,
+      "name": "Copper Powder",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Copper Powder.png",
+        "Copper_Powder.png",
+        "Copper Powder.webp",
+        "Copper_Powder.webp"
+      ]
+    },
+    {
+      "id": 310,
+      "name": "",
+      "reason": "empty-name",
+      "sourceFileName": "1-part.lua"
+    },
+    {
+      "id": 302,
+      "name": "Plutonium Pellet",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Plutonium Pellet.png",
+        "Plutonium_Pellet.png",
+        "Plutonium Pellet.webp",
+        "Plutonium_Pellet.webp"
+      ]
+    },
+    {
+      "id": 301,
+      "name": "Packaged Nitric Acid",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Packaged Nitric Acid.png",
+        "Packaged_Nitric_Acid.png",
+        "Packaged Nitric Acid.webp",
+        "Packaged_Nitric_Acid.webp"
+      ]
+    },
+    {
+      "id": 308,
+      "name": "Mycelia",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Mycelia.png",
+        "Mycelia.webp"
+      ]
+    },
+    {
+      "id": 307,
+      "name": "Spitter Remains",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Spitter Remains.png",
+        "Spitter_Remains.png",
+        "Spitter Remains.webp",
+        "Spitter_Remains.webp"
+      ]
+    },
+    {
+      "id": 304,
+      "name": "Nuclear Pasta",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Nuclear Pasta.png",
+        "Nuclear_Pasta.png",
+        "Nuclear Pasta.webp",
+        "Nuclear_Pasta.webp"
+      ]
+    },
+    {
+      "id": 316,
+      "name": "Candy Cane",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Candy Cane.png",
+        "Candy_Cane.png",
+        "Candy Cane.webp",
+        "Candy_Cane.webp"
+      ]
+    },
+    {
+      "id": 313,
+      "name": "Purple Power Slug",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Purple Power Slug.png",
+        "Purple_Power_Slug.png",
+        "Purple Power Slug.webp",
+        "Purple_Power_Slug.webp"
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Red FICSMAS Ornament",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Red FICSMAS Ornament.png",
+        "Red_FICSMAS_Ornament.png",
+        "Red FICSMAS Ornament.webp",
+        "Red_FICSMAS_Ornament.webp"
+      ]
+    },
+    {
+      "id": 326,
+      "name": "Snowball",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Snowball.png",
+        "Snowball.webp"
+      ]
+    },
+    {
+      "id": 320,
+      "name": "Blue FICSMAS Ornament",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Blue FICSMAS Ornament.png",
+        "Blue_FICSMAS_Ornament.png",
+        "Blue FICSMAS Ornament.webp",
+        "Blue_FICSMAS_Ornament.webp"
+      ]
+    },
+    {
+      "id": 324,
+      "name": "FICSMAS Wreath",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "FICSMAS Wreath.png",
+        "FICSMAS_Wreath.png",
+        "FICSMAS Wreath.webp",
+        "FICSMAS_Wreath.webp"
+      ]
+    },
+    {
+      "id": 325,
+      "name": "FICSMAS Wonder Star",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "FICSMAS Wonder Star.png",
+        "FICSMAS_Wonder_Star.png",
+        "FICSMAS Wonder Star.webp",
+        "FICSMAS_Wonder_Star.webp"
+      ]
+    },
+    {
+      "id": 329,
+      "name": "Down Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Down Arrow.png",
+        "Down_Arrow.png",
+        "Down Arrow.webp",
+        "Down_Arrow.webp"
+      ]
+    },
+    {
+      "id": 331,
+      "name": "Down Right Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Down Right Arrow.png",
+        "Down_Right_Arrow.png",
+        "Down Right Arrow.webp",
+        "Down_Right_Arrow.webp"
+      ]
+    },
+    {
+      "id": 330,
+      "name": "Down Left Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Down Left Arrow.png",
+        "Down_Left_Arrow.png",
+        "Down Left Arrow.webp",
+        "Down_Left_Arrow.webp"
+      ]
+    },
+    {
+      "id": 333,
+      "name": "Up Left Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Up Left Arrow.png",
+        "Up_Left_Arrow.png",
+        "Up Left Arrow.webp",
+        "Up_Left_Arrow.webp"
+      ]
+    },
+    {
+      "id": 332,
+      "name": "Left Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Left Arrow.png",
+        "Left_Arrow.png",
+        "Left Arrow.webp",
+        "Left_Arrow.webp"
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Up Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Up Arrow.png",
+        "Up_Arrow.png",
+        "Up Arrow.webp",
+        "Up_Arrow.webp"
+      ]
+    },
+    {
+      "id": 337,
+      "name": "Droplet",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Droplet.png",
+        "Droplet.webp"
+      ]
+    },
+    {
+      "id": 335,
+      "name": "Up Right Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Up Right Arrow.png",
+        "Up_Right_Arrow.png",
+        "Up Right Arrow.webp",
+        "Up_Right_Arrow.webp"
+      ]
+    },
+    {
+      "id": 336,
+      "name": "Right Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Right Arrow.png",
+        "Right_Arrow.png",
+        "Right Arrow.webp",
+        "Right_Arrow.webp"
+      ]
+    },
+    {
+      "id": 341,
+      "name": "Stop X",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Stop X.png",
+        "Stop_X.png",
+        "Stop X.webp",
+        "Stop_X.webp"
+      ]
+    },
+    {
+      "id": 340,
+      "name": "Thumbs Down",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Thumbs Down.png",
+        "Thumbs_Down.png",
+        "Thumbs Down.webp",
+        "Thumbs_Down.webp"
+      ]
+    },
+    {
+      "id": 342,
+      "name": "Down Road Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Down Road Arrow.png",
+        "Down_Road_Arrow.png",
+        "Down Road Arrow.webp",
+        "Down_Road_Arrow.webp"
+      ]
+    },
+    {
+      "id": 343,
+      "name": "Turn Around Road Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Turn Around Road Arrow.png",
+        "Turn_Around_Road_Arrow.png",
+        "Turn Around Road Arrow.webp",
+        "Turn_Around_Road_Arrow.webp"
+      ]
+    },
+    {
+      "id": 344,
+      "name": "Turn Left Road Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Turn Left Road Arrow.png",
+        "Turn_Left_Road_Arrow.png",
+        "Turn Left Road Arrow.webp",
+        "Turn_Left_Road_Arrow.webp"
+      ]
+    },
+    {
+      "id": 345,
+      "name": "Turn Right Road Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Turn Right Road Arrow.png",
+        "Turn_Right_Road_Arrow.png",
+        "Turn Right Road Arrow.webp",
+        "Turn_Right_Road_Arrow.webp"
+      ]
+    },
+    {
+      "id": 349,
+      "name": "Factory",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Factory.png",
+        "Factory.webp"
+      ]
+    },
+    {
+      "id": 347,
+      "name": "Storage Crate",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Storage Crate.png",
+        "Storage_Crate.png",
+        "Storage Crate.webp",
+        "Storage_Crate.webp"
+      ]
+    },
+    {
+      "id": 348,
+      "name": "Exit Door",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Exit Door.png",
+        "Exit_Door.png",
+        "Exit Door.webp",
+        "Exit_Door.webp"
+      ]
+    },
+    {
+      "id": 352,
+      "name": "Power",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Power.png",
+        "Power.webp"
+      ]
+    },
+    {
+      "id": 346,
+      "name": "Up Road Arrow",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Up Road Arrow.png",
+        "Up_Road_Arrow.png",
+        "Up Road Arrow.webp",
+        "Up_Road_Arrow.webp"
+      ]
+    },
+    {
+      "id": 353,
+      "name": "Vehicle: Tractor",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Vehicle: Tractor.png",
+        "Vehicle:_Tractor.png",
+        "Vehicle: Tractor.webp",
+        "Vehicle:_Tractor.webp"
+      ]
+    },
+    {
+      "id": 354,
+      "name": "Vehicle: Explorer",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Vehicle: Explorer.png",
+        "Vehicle:_Explorer.png",
+        "Vehicle: Explorer.webp",
+        "Vehicle:_Explorer.webp"
+      ]
+    },
+    {
+      "id": 355,
+      "name": "Vehicle: Truck",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Vehicle: Truck.png",
+        "Vehicle:_Truck.png",
+        "Vehicle: Truck.webp",
+        "Vehicle:_Truck.webp"
+      ]
+    },
+    {
+      "id": 356,
+      "name": "Vehicle: Train",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Vehicle: Train.png",
+        "Vehicle:_Train.png",
+        "Vehicle: Train.webp",
+        "Vehicle:_Train.webp"
+      ]
+    },
+    {
+      "id": 351,
+      "name": "Player, pioneer",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Player, pioneer.png",
+        "Player pioneer.png",
+        "Player_pioneer.png",
+        "Player, pioneer.webp",
+        "Player pioneer.webp",
+        "Player_pioneer.webp"
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Home, House",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Home, House.png",
+        "Home House.png",
+        "Home_House.png",
+        "Home, House.webp",
+        "Home House.webp",
+        "Home_House.webp"
+      ]
+    },
+    {
+      "id": 362,
+      "name": "Warning",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Warning.png",
+        "Warning.webp"
+      ]
+    },
+    {
+      "id": 364,
+      "name": "Grid",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "Grid.png",
+        "Grid.webp"
+      ]
+    },
+    {
+      "id": 365,
+      "name": "Checkered",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "Checkered.png",
+        "Checkered.webp"
+      ]
+    },
+    {
+      "id": 368,
+      "name": "Rectangles",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "Rectangles.png",
+        "Rectangles.webp"
+      ]
+    },
+    {
+      "id": 367,
+      "name": "Dots",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "Dots.png",
+        "Dots.webp"
+      ]
+    },
+    {
+      "id": 361,
+      "name": "Block Signal",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Block Signal.png",
+        "Block_Signal.png",
+        "Block Signal.webp",
+        "Block_Signal.webp"
+      ]
+    },
+    {
+      "id": 357,
+      "name": "Vehicle: Factory Cart",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Vehicle: Factory Cart.png",
+        "Vehicle:_Factory_Cart.png",
+        "Vehicle: Factory Cart.webp",
+        "Vehicle:_Factory_Cart.webp"
+      ]
+    },
+    {
+      "id": 363,
+      "name": "Blueprint Grid",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "Blueprint Grid.png",
+        "Blueprint_Grid.png",
+        "Blueprint Grid.webp",
+        "Blueprint_Grid.webp"
+      ]
+    },
+    {
+      "id": 366,
+      "name": "Diagonal Lines",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "Diagonal Lines.png",
+        "Diagonal_Lines.png",
+        "Diagonal Lines.webp",
+        "Diagonal_Lines.webp"
+      ]
+    },
+    {
+      "id": 369,
+      "name": "None",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "None.png",
+        "None.webp"
+      ]
+    },
+    {
+      "id": 371,
+      "name": "Wave",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "Wave.png",
+        "Wave.webp"
+      ]
+    },
+    {
+      "id": 375,
+      "name": "FICSIT",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "FICSIT.png",
+        "FICSIT.webp"
+      ]
+    },
+    {
+      "id": 370,
+      "name": "Radial Gradient",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "Radial Gradient.png",
+        "Radial_Gradient.png",
+        "Radial Gradient.webp",
+        "Radial_Gradient.webp"
+      ]
+    },
+    {
+      "id": 372,
+      "name": "Vertical Gradient",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "Vertical Gradient.png",
+        "Vertical_Gradient.png",
+        "Vertical Gradient.webp",
+        "Vertical_Gradient.webp"
+      ]
+    },
+    {
+      "id": 373,
+      "name": "Horizontal Gradient",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "Horizontal Gradient.png",
+        "Horizontal_Gradient.png",
+        "Horizontal Gradient.webp",
+        "Horizontal_Gradient.webp"
+      ]
+    },
+    {
+      "id": 374,
+      "name": "Small FICSIT Checkmark",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "Small FICSIT Checkmark.png",
+        "Small_FICSIT_Checkmark.png",
+        "Small FICSIT Checkmark.webp",
+        "Small_FICSIT_Checkmark.webp"
+      ]
+    },
+    {
+      "id": 379,
+      "name": "Straight Walkway",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Straight Walkway.png",
+        "Straight_Walkway.png",
+        "Straight Walkway.webp",
+        "Straight_Walkway.webp"
+      ]
+    },
+    {
+      "id": 380,
+      "name": "Walkway Intersection",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Walkway Intersection.png",
+        "Walkway_Intersection.png",
+        "Walkway Intersection.webp",
+        "Walkway_Intersection.webp"
+      ]
+    },
+    {
+      "id": 383,
+      "name": "Basic Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Basic Wall (4 m).png",
+        "Basic_Wall_(4_m).png",
+        "Basic Wall (4 m).webp",
+        "Basic_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 381,
+      "name": "Walkway T-Junction",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Walkway T-Junction.png",
+        "Walkway_T-Junction.png",
+        "Walkway T-Junction.webp",
+        "Walkway_T-Junction.webp"
+      ]
+    },
+    {
+      "id": 384,
+      "name": "Foundation (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (1 m).png",
+        "Foundation_(1_m).png",
+        "Foundation (1 m).webp",
+        "Foundation_(1_m).webp"
+      ]
+    },
+    {
+      "id": 385,
+      "name": "Foundation (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (2 m).png",
+        "Foundation_(2_m).png",
+        "Foundation (2 m).webp",
+        "Foundation_(2_m).webp"
+      ]
+    },
+    {
+      "id": 386,
+      "name": "Foundation (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (4 m).png",
+        "Foundation_(4_m).png",
+        "Foundation (4 m).webp",
+        "Foundation_(4_m).webp"
+      ]
+    },
+    {
+      "id": 387,
+      "name": "Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (1 m).png",
+        "Ramp_(1_m).png",
+        "Ramp (1 m).webp",
+        "Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 388,
+      "name": "Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (2 m).png",
+        "Ramp_(2_m).png",
+        "Ramp (2 m).webp",
+        "Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 390,
+      "name": "Basic Wall (4m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Basic Wall (4m).png",
+        "Basic_Wall_(4m).png",
+        "Basic Wall (4m).webp",
+        "Basic_Wall_(4m).webp"
+      ]
+    },
+    {
+      "id": 389,
+      "name": "Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (4 m).png",
+        "Ramp_(4_m).png",
+        "Ramp (4 m).webp",
+        "Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 391,
+      "name": "Basic Wall (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Basic Wall (1 m).png",
+        "Basic_Wall_(1_m).png",
+        "Basic Wall (1 m).webp",
+        "Basic_Wall_(1_m).webp"
+      ]
+    },
+    {
+      "id": 393,
+      "name": "Painted Beam",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Painted Beam.png",
+        "Painted_Beam.png",
+        "Painted Beam.webp",
+        "Painted_Beam.webp"
+      ]
+    },
+    {
+      "id": 399,
+      "name": "Straight Catwalk",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Straight Catwalk.png",
+        "Straight_Catwalk.png",
+        "Straight Catwalk.webp",
+        "Straight_Catwalk.webp"
+      ]
+    },
+    {
+      "id": 408,
+      "name": "Up Corner Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (1 m).png",
+        "Up_Corner_Ramp_(1_m).png",
+        "Up Corner Ramp (1 m).webp",
+        "Up_Corner_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 405,
+      "name": "Big Concrete Pillar",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Big Concrete Pillar.png",
+        "Big_Concrete_Pillar.png",
+        "Big Concrete Pillar.webp",
+        "Big_Concrete_Pillar.webp"
+      ]
+    },
+    {
+      "id": 401,
+      "name": "Catwalk T-junction",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Catwalk T-junction.png",
+        "Catwalk_T-junction.png",
+        "Catwalk T-junction.webp",
+        "Catwalk_T-junction.webp"
+      ]
+    },
+    {
+      "id": 409,
+      "name": "Up Corner Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (2 m).png",
+        "Up_Corner_Ramp_(2_m).png",
+        "Up Corner Ramp (2 m).webp",
+        "Up_Corner_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 410,
+      "name": "Up Corner Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (4 m).png",
+        "Up_Corner_Ramp_(4_m).png",
+        "Up Corner Ramp (4 m).webp",
+        "Up_Corner_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 411,
+      "name": "Down Corner Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (1 m).png",
+        "Down_Corner_Ramp_(1_m).png",
+        "Down Corner Ramp (1 m).webp",
+        "Down_Corner_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 412,
+      "name": "Down Corner Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (2 m).png",
+        "Down_Corner_Ramp_(2_m).png",
+        "Down Corner Ramp (2 m).webp",
+        "Down_Corner_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 414,
+      "name": "Inverted Ramp Wall (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (1 m).png",
+        "Inverted_Ramp_Wall_(1_m).png",
+        "Inverted Ramp Wall (1 m).webp",
+        "Inverted_Ramp_Wall_(1_m).webp"
+      ]
+    },
+    {
+      "id": 413,
+      "name": "Down Corner Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (4 m).png",
+        "Down_Corner_Ramp_(4_m).png",
+        "Down Corner Ramp (4 m).webp",
+        "Down_Corner_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 415,
+      "name": "Inverted Ramp Wall (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (2 m).png",
+        "Inverted_Ramp_Wall_(2_m).png",
+        "Inverted Ramp Wall (2 m).webp",
+        "Inverted_Ramp_Wall_(2_m).webp"
+      ]
+    },
+    {
+      "id": 416,
+      "name": "Inverted Ramp Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (4 m).png",
+        "Inverted_Ramp_Wall_(4_m).png",
+        "Inverted Ramp Wall (4 m).webp",
+        "Inverted_Ramp_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 417,
+      "name": "Inverted Ramp Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (8 m).png",
+        "Inverted_Ramp_Wall_(8_m).png",
+        "Inverted Ramp Wall (8 m).webp",
+        "Inverted_Ramp_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 418,
+      "name": "Ramp Wall (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (1 m).png",
+        "Ramp_Wall_(1_m).png",
+        "Ramp Wall (1 m).webp",
+        "Ramp_Wall_(1_m).webp"
+      ]
+    },
+    {
+      "id": 419,
+      "name": "Ramp Wall (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (2 m).png",
+        "Ramp_Wall_(2_m).png",
+        "Ramp Wall (2 m).webp",
+        "Ramp_Wall_(2_m).webp"
+      ]
+    },
+    {
+      "id": 420,
+      "name": "Ramp Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (4 m).png",
+        "Ramp_Wall_(4_m).png",
+        "Ramp Wall (4 m).webp",
+        "Ramp_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 421,
+      "name": "Ramp Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (8 m).png",
+        "Ramp_Wall_(8_m).png",
+        "Ramp Wall (8 m).webp",
+        "Ramp_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 425,
+      "name": "Square Sign (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Square Sign (2 m).png",
+        "Square_Sign_(2_m).png",
+        "Square Sign (2 m).webp",
+        "Square_Sign_(2_m).webp"
+      ]
+    },
+    {
+      "id": 426,
+      "name": "Center Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Center Door Wall.png",
+        "Center_Door_Wall.png",
+        "Center Door Wall.webp",
+        "Center_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 428,
+      "name": "Center Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Center Door Wall.png",
+        "Center_Door_Wall.png",
+        "Center Door Wall.webp",
+        "Center_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 427,
+      "name": "Side Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Side Door Wall.png",
+        "Side_Door_Wall.png",
+        "Side Door Wall.webp",
+        "Side_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 429,
+      "name": "Side Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Side Door Wall.png",
+        "Side_Door_Wall.png",
+        "Side Door Wall.webp",
+        "Side_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 432,
+      "name": "Small Metal Pillar",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Small Metal Pillar.png",
+        "Small_Metal_Pillar.png",
+        "Small Metal Pillar.webp",
+        "Small_Metal_Pillar.webp"
+      ]
+    },
+    {
+      "id": 433,
+      "name": "Double Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (2 m).png",
+        "Double_Ramp_(2_m).png",
+        "Double Ramp (2 m).webp",
+        "Double_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 434,
+      "name": "Double Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (4 m).png",
+        "Double_Ramp_(4_m).png",
+        "Double Ramp (4 m).webp",
+        "Double_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 435,
+      "name": "Double Ramp (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (8 m).png",
+        "Double_Ramp_(8_m).png",
+        "Double Ramp (8 m).webp",
+        "Double_Ramp_(8_m).webp"
+      ]
+    },
+    {
+      "id": 442,
+      "name": "Frame Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Frame Wall.png",
+        "Frame_Wall.png",
+        "Frame Wall.webp",
+        "Frame_Wall.webp"
+      ]
+    },
+    {
+      "id": 445,
+      "name": "Gate Hole Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Gate Hole Wall.png",
+        "Gate_Hole_Wall.png",
+        "Gate Hole Wall.webp",
+        "Gate_Hole_Wall.webp"
+      ]
+    },
+    {
+      "id": 449,
+      "name": "Inverted Up Corner (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (2 m).png",
+        "Inverted_Up_Corner_(2_m).png",
+        "Inverted Up Corner (2 m).webp",
+        "Inverted_Up_Corner_(2_m).webp"
+      ]
+    },
+    {
+      "id": 448,
+      "name": "Inverted Up Corner (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (1 m).png",
+        "Inverted_Up_Corner_(1_m).png",
+        "Inverted Up Corner (1 m).webp",
+        "Inverted_Up_Corner_(1_m).webp"
+      ]
+    },
+    {
+      "id": 452,
+      "name": "Inverted Down Corner (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (2 m).png",
+        "Inverted_Down_Corner_(2_m).png",
+        "Inverted Down Corner (2 m).webp",
+        "Inverted_Down_Corner_(2_m).webp"
+      ]
+    },
+    {
+      "id": 451,
+      "name": "Inverted Down Corner (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (1 m).png",
+        "Inverted_Down_Corner_(1_m).png",
+        "Inverted Down Corner (1 m).webp",
+        "Inverted_Down_Corner_(1_m).webp"
+      ]
+    },
+    {
+      "id": 450,
+      "name": "Inverted Up Corner (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (4 m).png",
+        "Inverted_Up_Corner_(4_m).png",
+        "Inverted Up Corner (4 m).webp",
+        "Inverted_Up_Corner_(4_m).webp"
+      ]
+    },
+    {
+      "id": 453,
+      "name": "Inverted Down Corner (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (4 m).png",
+        "Inverted_Down_Corner_(4_m).png",
+        "Inverted Down Corner (4 m).webp",
+        "Inverted_Down_Corner_(4_m).webp"
+      ]
+    },
+    {
+      "id": 454,
+      "name": "Inverted Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (1 m).png",
+        "Inverted_Ramp_(1_m).png",
+        "Inverted Ramp (1 m).webp",
+        "Inverted_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 455,
+      "name": "Inverted Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (2 m).png",
+        "Inverted_Ramp_(2_m).png",
+        "Inverted Ramp (2 m).webp",
+        "Inverted_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 456,
+      "name": "Inverted Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (4 m).png",
+        "Inverted_Ramp_(4_m).png",
+        "Inverted Ramp (4 m).webp",
+        "Inverted_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 462,
+      "name": "Flat Roof",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Flat Roof.png",
+        "Flat_Roof.png",
+        "Flat Roof.webp",
+        "Flat_Roof.webp"
+      ]
+    },
+    {
+      "id": 463,
+      "name": "Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (1 m).png",
+        "Roof_(1_m).png",
+        "Roof (1 m).webp",
+        "Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 464,
+      "name": "Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (2 m).png",
+        "Roof_(2_m).png",
+        "Roof (2 m).webp",
+        "Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 465,
+      "name": "Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (4 m).png",
+        "Roof_(4_m).png",
+        "Roof (4 m).webp",
+        "Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 466,
+      "name": "Tilted Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Wall (4 m).png",
+        "Tilted_Wall_(4_m).png",
+        "Tilted Wall (4 m).webp",
+        "Tilted_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 467,
+      "name": "Tilted Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Wall (8 m).png",
+        "Tilted_Wall_(8_m).png",
+        "Tilted Wall (8 m).webp",
+        "Tilted_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 468,
+      "name": "Tilted Corner Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Corner Wall (4 m).png",
+        "Tilted_Corner_Wall_(4_m).png",
+        "Tilted Corner Wall (4 m).webp",
+        "Tilted_Corner_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 469,
+      "name": "Tilted Corner Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Corner Wall (8 m).png",
+        "Tilted_Corner_Wall_(8_m).png",
+        "Tilted Corner Wall (8 m).webp",
+        "Tilted_Corner_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 470,
+      "name": "Flat Roof",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Flat Roof.png",
+        "Flat_Roof.png",
+        "Flat Roof.webp",
+        "Flat_Roof.webp"
+      ]
+    },
+    {
+      "id": 471,
+      "name": "Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (1 m).png",
+        "Roof_(1_m).png",
+        "Roof (1 m).webp",
+        "Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 472,
+      "name": "Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (2 m).png",
+        "Roof_(2_m).png",
+        "Roof (2 m).webp",
+        "Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 473,
+      "name": "Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (4 m).png",
+        "Roof_(4_m).png",
+        "Roof (4 m).webp",
+        "Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 474,
+      "name": "Flat Roof",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Flat Roof.png",
+        "Flat_Roof.png",
+        "Flat Roof.webp",
+        "Flat_Roof.webp"
+      ]
+    },
+    {
+      "id": 475,
+      "name": "Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (1 m).png",
+        "Roof_(1_m).png",
+        "Roof (1 m).webp",
+        "Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 476,
+      "name": "Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (2 m).png",
+        "Roof_(2_m).png",
+        "Roof (2 m).webp",
+        "Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 477,
+      "name": "Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (4 m).png",
+        "Roof_(4_m).png",
+        "Roof (4 m).webp",
+        "Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 478,
+      "name": "Flat Roof",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Flat Roof.png",
+        "Flat_Roof.png",
+        "Flat Roof.webp",
+        "Flat_Roof.webp"
+      ]
+    },
+    {
+      "id": 480,
+      "name": "Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (2 m).png",
+        "Roof_(2_m).png",
+        "Roof (2 m).webp",
+        "Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 479,
+      "name": "Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (1 m).png",
+        "Roof_(1_m).png",
+        "Roof (1 m).webp",
+        "Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 481,
+      "name": "Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Roof (4 m).png",
+        "Roof_(4_m).png",
+        "Roof (4 m).webp",
+        "Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 483,
+      "name": "Basic Wall (4m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Basic Wall (4m).png",
+        "Basic_Wall_(4m).png",
+        "Basic Wall (4m).webp",
+        "Basic_Wall_(4m).webp"
+      ]
+    },
+    {
+      "id": 482,
+      "name": "Basic Wall (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Basic Wall (1 m).png",
+        "Basic_Wall_(1_m).png",
+        "Basic Wall (1 m).webp",
+        "Basic_Wall_(1_m).webp"
+      ]
+    },
+    {
+      "id": 486,
+      "name": "Conveyor Wall x 3",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Conveyor Wall x 3.png",
+        "Conveyor_Wall_x_3.png",
+        "Conveyor Wall x 3.webp",
+        "Conveyor_Wall_x_3.webp"
+      ]
+    },
+    {
+      "id": 484,
+      "name": "Conveyor Wall x 1",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Conveyor Wall x 1.png",
+        "Conveyor_Wall_x_1.png",
+        "Conveyor Wall x 1.webp",
+        "Conveyor_Wall_x_1.webp"
+      ]
+    },
+    {
+      "id": 485,
+      "name": "Conveyor Wall x 2",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Conveyor Wall x 2.png",
+        "Conveyor_Wall_x_2.png",
+        "Conveyor Wall x 2.webp",
+        "Conveyor_Wall_x_2.webp"
+      ]
+    },
+    {
+      "id": 487,
+      "name": "Inverted Ramp Wall (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (1 m).png",
+        "Inverted_Ramp_Wall_(1_m).png",
+        "Inverted Ramp Wall (1 m).webp",
+        "Inverted_Ramp_Wall_(1_m).webp"
+      ]
+    },
+    {
+      "id": 488,
+      "name": "Inverted Ramp Wall (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (2 m).png",
+        "Inverted_Ramp_Wall_(2_m).png",
+        "Inverted Ramp Wall (2 m).webp",
+        "Inverted_Ramp_Wall_(2_m).webp"
+      ]
+    },
+    {
+      "id": 489,
+      "name": "Inverted Ramp Wall (4m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (4m).png",
+        "Inverted_Ramp_Wall_(4m).png",
+        "Inverted Ramp Wall (4m).webp",
+        "Inverted_Ramp_Wall_(4m).webp"
+      ]
+    },
+    {
+      "id": 491,
+      "name": "Ramp Wall (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (1 m).png",
+        "Ramp_Wall_(1_m).png",
+        "Ramp Wall (1 m).webp",
+        "Ramp_Wall_(1_m).webp"
+      ]
+    },
+    {
+      "id": 490,
+      "name": "Inverted Ramp Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (8 m).png",
+        "Inverted_Ramp_Wall_(8_m).png",
+        "Inverted Ramp Wall (8 m).webp",
+        "Inverted_Ramp_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 492,
+      "name": "Ramp Wall (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (2 m).png",
+        "Ramp_Wall_(2_m).png",
+        "Ramp Wall (2 m).webp",
+        "Ramp_Wall_(2_m).webp"
+      ]
+    },
+    {
+      "id": 493,
+      "name": "Ramp Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (4 m).png",
+        "Ramp_Wall_(4_m).png",
+        "Ramp Wall (4 m).webp",
+        "Ramp_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 494,
+      "name": "Ramp Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (8 m).png",
+        "Ramp_Wall_(8_m).png",
+        "Ramp Wall (8 m).webp",
+        "Ramp_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 495,
+      "name": "Center Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Center Door Wall.png",
+        "Center_Door_Wall.png",
+        "Center Door Wall.webp",
+        "Center_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 497,
+      "name": "Gate Hole Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Gate Hole Wall.png",
+        "Gate_Hole_Wall.png",
+        "Gate Hole Wall.webp",
+        "Gate_Hole_Wall.webp"
+      ]
+    },
+    {
+      "id": 496,
+      "name": "Side Door Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Side Door Wall.png",
+        "Side_Door_Wall.png",
+        "Side Door Wall.webp",
+        "Side_Door_Wall.webp"
+      ]
+    },
+    {
+      "id": 498,
+      "name": "Tilted Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Wall (4 m).png",
+        "Tilted_Wall_(4_m).png",
+        "Tilted Wall (4 m).webp",
+        "Tilted_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 499,
+      "name": "Tilted Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Wall (8 m).png",
+        "Tilted_Wall_(8_m).png",
+        "Tilted Wall (8 m).webp",
+        "Tilted_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 500,
+      "name": "Tilted Corner Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Corner Wall (4 m).png",
+        "Tilted_Corner_Wall_(4_m).png",
+        "Tilted Corner Wall (4 m).webp",
+        "Tilted_Corner_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 501,
+      "name": "Tilted Corner Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Corner Wall (8 m).png",
+        "Tilted_Corner_Wall_(8_m).png",
+        "Tilted Corner Wall (8 m).webp",
+        "Tilted_Corner_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 507,
+      "name": "Foundation (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (2 m).png",
+        "Foundation_(2_m).png",
+        "Foundation (2 m).webp",
+        "Foundation_(2_m).webp"
+      ]
+    },
+    {
+      "id": 506,
+      "name": "Foundation (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (1 m).png",
+        "Foundation_(1_m).png",
+        "Foundation (1 m).webp",
+        "Foundation_(1_m).webp"
+      ]
+    },
+    {
+      "id": 508,
+      "name": "Foundation (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (4 m).png",
+        "Foundation_(4_m).png",
+        "Foundation (4 m).webp",
+        "Foundation_(4_m).webp"
+      ]
+    },
+    {
+      "id": 509,
+      "name": "Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (1 m).png",
+        "Ramp_(1_m).png",
+        "Ramp (1 m).webp",
+        "Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 510,
+      "name": "Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (2 m).png",
+        "Ramp_(2_m).png",
+        "Ramp (2 m).webp",
+        "Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 512,
+      "name": "Foundation (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (1 m).png",
+        "Foundation_(1_m).png",
+        "Foundation (1 m).webp",
+        "Foundation_(1_m).webp"
+      ]
+    },
+    {
+      "id": 511,
+      "name": "Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (4 m).png",
+        "Ramp_(4_m).png",
+        "Ramp (4 m).webp",
+        "Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 513,
+      "name": "Foundation (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (2 m).png",
+        "Foundation_(2_m).png",
+        "Foundation (2 m).webp",
+        "Foundation_(2_m).webp"
+      ]
+    },
+    {
+      "id": 514,
+      "name": "Foundation (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (4 m).png",
+        "Foundation_(4_m).png",
+        "Foundation (4 m).webp",
+        "Foundation_(4_m).webp"
+      ]
+    },
+    {
+      "id": 515,
+      "name": "Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (1 m).png",
+        "Ramp_(1_m).png",
+        "Ramp (1 m).webp",
+        "Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 516,
+      "name": "Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (2 m).png",
+        "Ramp_(2_m).png",
+        "Ramp (2 m).webp",
+        "Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 518,
+      "name": "Foundation (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (1 m).png",
+        "Foundation_(1_m).png",
+        "Foundation (1 m).webp",
+        "Foundation_(1_m).webp"
+      ]
+    },
+    {
+      "id": 517,
+      "name": "Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (4 m).png",
+        "Ramp_(4_m).png",
+        "Ramp (4 m).webp",
+        "Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 519,
+      "name": "Foundation (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (2 m).png",
+        "Foundation_(2_m).png",
+        "Foundation (2 m).webp",
+        "Foundation_(2_m).webp"
+      ]
+    },
+    {
+      "id": 520,
+      "name": "Foundation (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (4 m).png",
+        "Foundation_(4_m).png",
+        "Foundation (4 m).webp",
+        "Foundation_(4_m).webp"
+      ]
+    },
+    {
+      "id": 521,
+      "name": "Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (1 m).png",
+        "Ramp_(1_m).png",
+        "Ramp (1 m).webp",
+        "Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 522,
+      "name": "Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (2 m).png",
+        "Ramp_(2_m).png",
+        "Ramp (2 m).webp",
+        "Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 523,
+      "name": "Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (4 m).png",
+        "Ramp_(4_m).png",
+        "Ramp (4 m).webp",
+        "Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 524,
+      "name": "Up Corner Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (1 m).png",
+        "Up_Corner_Ramp_(1_m).png",
+        "Up Corner Ramp (1 m).webp",
+        "Up_Corner_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 526,
+      "name": "Up Corner Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (4 m).png",
+        "Up_Corner_Ramp_(4_m).png",
+        "Up Corner Ramp (4 m).webp",
+        "Up_Corner_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 525,
+      "name": "Up Corner Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (2 m).png",
+        "Up_Corner_Ramp_(2_m).png",
+        "Up Corner Ramp (2 m).webp",
+        "Up_Corner_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 527,
+      "name": "Down Corner Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (1 m).png",
+        "Down_Corner_Ramp_(1_m).png",
+        "Down Corner Ramp (1 m).webp",
+        "Down_Corner_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 528,
+      "name": "Down Corner Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (2 m).png",
+        "Down_Corner_Ramp_(2_m).png",
+        "Down Corner Ramp (2 m).webp",
+        "Down_Corner_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 529,
+      "name": "Down Corner Ramp (4m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (4m).png",
+        "Down_Corner_Ramp_(4m).png",
+        "Down Corner Ramp (4m).webp",
+        "Down_Corner_Ramp_(4m).webp"
+      ]
+    },
+    {
+      "id": 530,
+      "name": "Down Corner Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (1 m).png",
+        "Down_Corner_Ramp_(1_m).png",
+        "Down Corner Ramp (1 m).webp",
+        "Down_Corner_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 531,
+      "name": "Down Corner Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (2 m).png",
+        "Down_Corner_Ramp_(2_m).png",
+        "Down Corner Ramp (2 m).webp",
+        "Down_Corner_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 532,
+      "name": "Down Corner Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (4 m).png",
+        "Down_Corner_Ramp_(4_m).png",
+        "Down Corner Ramp (4 m).webp",
+        "Down_Corner_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 533,
+      "name": "Up Corner Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (1 m).png",
+        "Up_Corner_Ramp_(1_m).png",
+        "Up Corner Ramp (1 m).webp",
+        "Up_Corner_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 534,
+      "name": "Up Corner Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (2 m).png",
+        "Up_Corner_Ramp_(2_m).png",
+        "Up Corner Ramp (2 m).webp",
+        "Up_Corner_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 535,
+      "name": "Up Corner Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (4 m).png",
+        "Up_Corner_Ramp_(4_m).png",
+        "Up Corner Ramp (4 m).webp",
+        "Up_Corner_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 536,
+      "name": "Down Corner Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (1 m).png",
+        "Down_Corner_Ramp_(1_m).png",
+        "Down Corner Ramp (1 m).webp",
+        "Down_Corner_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 537,
+      "name": "Down Corner Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (2 m).png",
+        "Down_Corner_Ramp_(2_m).png",
+        "Down Corner Ramp (2 m).webp",
+        "Down_Corner_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 538,
+      "name": "Down Corner Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (4 m).png",
+        "Down_Corner_Ramp_(4_m).png",
+        "Down Corner Ramp (4 m).webp",
+        "Down_Corner_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 539,
+      "name": "Up Corner Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (1 m).png",
+        "Up_Corner_Ramp_(1_m).png",
+        "Up Corner Ramp (1 m).webp",
+        "Up_Corner_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 540,
+      "name": "Up Corner Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (2 m).png",
+        "Up_Corner_Ramp_(2_m).png",
+        "Up Corner Ramp (2 m).webp",
+        "Up_Corner_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 541,
+      "name": "Up Corner Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (4 m).png",
+        "Up_Corner_Ramp_(4_m).png",
+        "Up Corner Ramp (4 m).webp",
+        "Up_Corner_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 542,
+      "name": "Double Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (2 m).png",
+        "Double_Ramp_(2_m).png",
+        "Double Ramp (2 m).webp",
+        "Double_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 543,
+      "name": "Double Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (4 m).png",
+        "Double_Ramp_(4_m).png",
+        "Double Ramp (4 m).webp",
+        "Double_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 544,
+      "name": "Double Ramp (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (8 m).png",
+        "Double_Ramp_(8_m).png",
+        "Double Ramp (8 m).webp",
+        "Double_Ramp_(8_m).webp"
+      ]
+    },
+    {
+      "id": 545,
+      "name": "Double Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (2 m).png",
+        "Double_Ramp_(2_m).png",
+        "Double Ramp (2 m).webp",
+        "Double_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 546,
+      "name": "Double Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (4 m).png",
+        "Double_Ramp_(4_m).png",
+        "Double Ramp (4 m).webp",
+        "Double_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 547,
+      "name": "Double Ramp (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (8 m).png",
+        "Double_Ramp_(8_m).png",
+        "Double Ramp (8 m).webp",
+        "Double_Ramp_(8_m).webp"
+      ]
+    },
+    {
+      "id": 548,
+      "name": "Double Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (2 m).png",
+        "Double_Ramp_(2_m).png",
+        "Double Ramp (2 m).webp",
+        "Double_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 551,
+      "name": "Inverted Down Corner (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (1 m).png",
+        "Inverted_Down_Corner_(1_m).png",
+        "Inverted Down Corner (1 m).webp",
+        "Inverted_Down_Corner_(1_m).webp"
+      ]
+    },
+    {
+      "id": 549,
+      "name": "Double Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (4 m).png",
+        "Double_Ramp_(4_m).png",
+        "Double Ramp (4 m).webp",
+        "Double_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 550,
+      "name": "Double Ramp (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (8 m).png",
+        "Double_Ramp_(8_m).png",
+        "Double Ramp (8 m).webp",
+        "Double_Ramp_(8_m).webp"
+      ]
+    },
+    {
+      "id": 552,
+      "name": "Inverted Down Corner (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (2 m).png",
+        "Inverted_Down_Corner_(2_m).png",
+        "Inverted Down Corner (2 m).webp",
+        "Inverted_Down_Corner_(2_m).webp"
+      ]
+    },
+    {
+      "id": 553,
+      "name": "Inverted Down Corner (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (4 m).png",
+        "Inverted_Down_Corner_(4_m).png",
+        "Inverted Down Corner (4 m).webp",
+        "Inverted_Down_Corner_(4_m).webp"
+      ]
+    },
+    {
+      "id": 554,
+      "name": "Inverted Up Corner (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (1 m).png",
+        "Inverted_Up_Corner_(1_m).png",
+        "Inverted Up Corner (1 m).webp",
+        "Inverted_Up_Corner_(1_m).webp"
+      ]
+    },
+    {
+      "id": 557,
+      "name": "Inverted Down Corner (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (1 m).png",
+        "Inverted_Down_Corner_(1_m).png",
+        "Inverted Down Corner (1 m).webp",
+        "Inverted_Down_Corner_(1_m).webp"
+      ]
+    },
+    {
+      "id": 555,
+      "name": "Inverted Up Corner (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (2 m).png",
+        "Inverted_Up_Corner_(2_m).png",
+        "Inverted Up Corner (2 m).webp",
+        "Inverted_Up_Corner_(2_m).webp"
+      ]
+    },
+    {
+      "id": 556,
+      "name": "Inverted Up Corner (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (4 m).png",
+        "Inverted_Up_Corner_(4_m).png",
+        "Inverted Up Corner (4 m).webp",
+        "Inverted_Up_Corner_(4_m).webp"
+      ]
+    },
+    {
+      "id": 558,
+      "name": "Inverted Down Corner (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (2 m).png",
+        "Inverted_Down_Corner_(2_m).png",
+        "Inverted Down Corner (2 m).webp",
+        "Inverted_Down_Corner_(2_m).webp"
+      ]
+    },
+    {
+      "id": 559,
+      "name": "Inverted Down Corner (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (4 m).png",
+        "Inverted_Down_Corner_(4_m).png",
+        "Inverted Down Corner (4 m).webp",
+        "Inverted_Down_Corner_(4_m).webp"
+      ]
+    },
+    {
+      "id": 560,
+      "name": "Inverted Up Corner (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (1 m).png",
+        "Inverted_Up_Corner_(1_m).png",
+        "Inverted Up Corner (1 m).webp",
+        "Inverted_Up_Corner_(1_m).webp"
+      ]
+    },
+    {
+      "id": 563,
+      "name": "Inverted Down Corner (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (1 m).png",
+        "Inverted_Down_Corner_(1_m).png",
+        "Inverted Down Corner (1 m).webp",
+        "Inverted_Down_Corner_(1_m).webp"
+      ]
+    },
+    {
+      "id": 562,
+      "name": "Inverted Up Corner (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (4 m).png",
+        "Inverted_Up_Corner_(4_m).png",
+        "Inverted Up Corner (4 m).webp",
+        "Inverted_Up_Corner_(4_m).webp"
+      ]
+    },
+    {
+      "id": 561,
+      "name": "Inverted Up Corner (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (2 m).png",
+        "Inverted_Up_Corner_(2_m).png",
+        "Inverted Up Corner (2 m).webp",
+        "Inverted_Up_Corner_(2_m).webp"
+      ]
+    },
+    {
+      "id": 565,
+      "name": "Inverted Down Corner (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (4 m).png",
+        "Inverted_Down_Corner_(4_m).png",
+        "Inverted Down Corner (4 m).webp",
+        "Inverted_Down_Corner_(4_m).webp"
+      ]
+    },
+    {
+      "id": 564,
+      "name": "Inverted Down Corner (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (2 m).png",
+        "Inverted_Down_Corner_(2_m).png",
+        "Inverted Down Corner (2 m).webp",
+        "Inverted_Down_Corner_(2_m).webp"
+      ]
+    },
+    {
+      "id": 566,
+      "name": "Inverted Up Corner (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (1 m).png",
+        "Inverted_Up_Corner_(1_m).png",
+        "Inverted Up Corner (1 m).webp",
+        "Inverted_Up_Corner_(1_m).webp"
+      ]
+    },
+    {
+      "id": 569,
+      "name": "Inverted Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (1 m).png",
+        "Inverted_Ramp_(1_m).png",
+        "Inverted Ramp (1 m).webp",
+        "Inverted_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 568,
+      "name": "Inverted Up Corner (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (4 m).png",
+        "Inverted_Up_Corner_(4_m).png",
+        "Inverted Up Corner (4 m).webp",
+        "Inverted_Up_Corner_(4_m).webp"
+      ]
+    },
+    {
+      "id": 567,
+      "name": "Inverted Up Corner (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (2 m).png",
+        "Inverted_Up_Corner_(2_m).png",
+        "Inverted Up Corner (2 m).webp",
+        "Inverted_Up_Corner_(2_m).webp"
+      ]
+    },
+    {
+      "id": 570,
+      "name": "Inverted Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (2 m).png",
+        "Inverted_Ramp_(2_m).png",
+        "Inverted Ramp (2 m).webp",
+        "Inverted_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 571,
+      "name": "Inverted Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (4 m).png",
+        "Inverted_Ramp_(4_m).png",
+        "Inverted Ramp (4 m).webp",
+        "Inverted_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 572,
+      "name": "Inverted Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (1 m).png",
+        "Inverted_Ramp_(1_m).png",
+        "Inverted Ramp (1 m).webp",
+        "Inverted_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 573,
+      "name": "Inverted Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (2 m).png",
+        "Inverted_Ramp_(2_m).png",
+        "Inverted Ramp (2 m).webp",
+        "Inverted_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 574,
+      "name": "Inverted Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (4 m).png",
+        "Inverted_Ramp_(4_m).png",
+        "Inverted Ramp (4 m).webp",
+        "Inverted_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 575,
+      "name": "Inverted Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (2 m).png",
+        "Inverted_Ramp_(2_m).png",
+        "Inverted Ramp (2 m).webp",
+        "Inverted_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 577,
+      "name": "Inverted Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (4 m).png",
+        "Inverted_Ramp_(4_m).png",
+        "Inverted Ramp (4 m).webp",
+        "Inverted_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 576,
+      "name": "Inverted Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (1 m).png",
+        "Inverted_Ramp_(1_m).png",
+        "Inverted Ramp (1 m).webp",
+        "Inverted_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 578,
+      "name": "Basic Wall (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Basic Wall (1 m).png",
+        "Basic_Wall_(1_m).png",
+        "Basic Wall (1 m).webp",
+        "Basic_Wall_(1_m).webp"
+      ]
+    },
+    {
+      "id": 580,
+      "name": "Inverted Ramp Wall (4m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (4m).png",
+        "Inverted_Ramp_Wall_(4m).png",
+        "Inverted Ramp Wall (4m).webp",
+        "Inverted_Ramp_Wall_(4m).webp"
+      ]
+    },
+    {
+      "id": 579,
+      "name": "Inverted Ramp Wall (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (1 m).png",
+        "Inverted_Ramp_Wall_(1_m).png",
+        "Inverted Ramp Wall (1 m).webp",
+        "Inverted_Ramp_Wall_(1_m).webp"
+      ]
+    },
+    {
+      "id": 581,
+      "name": "Inverted Ramp Wall (8m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (8m).png",
+        "Inverted_Ramp_Wall_(8m).png",
+        "Inverted Ramp Wall (8m).webp",
+        "Inverted_Ramp_Wall_(8m).webp"
+      ]
+    },
+    {
+      "id": 583,
+      "name": "Ramp Wall (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (2 m).png",
+        "Ramp_Wall_(2_m).png",
+        "Ramp Wall (2 m).webp",
+        "Ramp_Wall_(2_m).webp"
+      ]
+    },
+    {
+      "id": 582,
+      "name": "Ramp Wall (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (1 m).png",
+        "Ramp_Wall_(1_m).png",
+        "Ramp Wall (1 m).webp",
+        "Ramp_Wall_(1_m).webp"
+      ]
+    },
+    {
+      "id": 584,
+      "name": "Ramp Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (4 m).png",
+        "Ramp_Wall_(4_m).png",
+        "Ramp Wall (4 m).webp",
+        "Ramp_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 585,
+      "name": "Ramp Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp Wall (8 m).png",
+        "Ramp_Wall_(8_m).png",
+        "Ramp Wall (8 m).webp",
+        "Ramp_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 586,
+      "name": "Gate Hole Wall",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Gate Hole Wall.png",
+        "Gate_Hole_Wall.png",
+        "Gate Hole Wall.webp",
+        "Gate_Hole_Wall.webp"
+      ]
+    },
+    {
+      "id": 587,
+      "name": "Tilted Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Wall (4 m).png",
+        "Tilted_Wall_(4_m).png",
+        "Tilted Wall (4 m).webp",
+        "Tilted_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 588,
+      "name": "Tilted Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Wall (8 m).png",
+        "Tilted_Wall_(8_m).png",
+        "Tilted Wall (8 m).webp",
+        "Tilted_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 589,
+      "name": "Tilted Corner Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Corner Wall (4 m).png",
+        "Tilted_Corner_Wall_(4_m).png",
+        "Tilted Corner Wall (4 m).webp",
+        "Tilted_Corner_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 590,
+      "name": "Tilted Corner Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Corner Wall (8 m).png",
+        "Tilted_Corner_Wall_(8_m).png",
+        "Tilted Corner Wall (8 m).webp",
+        "Tilted_Corner_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 608,
+      "name": "Checkit",
+      "reason": "download-failed",
+      "sourceFileName": "5-custom.lua",
+      "tried": [
+        "Checkit.png",
+        "Checkit.webp"
+      ]
+    },
+    {
+      "id": 597,
+      "name": "Path Signal",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Path Signal.png",
+        "Path_Signal.png",
+        "Path Signal.webp",
+        "Path_Signal.webp"
+      ]
+    },
+    {
+      "id": 598,
+      "name": "FICSIT Checkmark",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "FICSIT Checkmark.png",
+        "FICSIT_Checkmark.png",
+        "FICSIT Checkmark.webp",
+        "FICSIT_Checkmark.webp"
+      ]
+    },
+    {
+      "id": 599,
+      "name": "Twirl Build Gun Emote",
+      "reason": "download-failed",
+      "sourceFileName": "5-custom.lua",
+      "tried": [
+        "Twirl Build Gun Emote.png",
+        "Twirl_Build_Gun_Emote.png",
+        "Twirl Build Gun Emote.webp",
+        "Twirl_Build_Gun_Emote.webp"
+      ]
+    },
+    {
+      "id": 603,
+      "name": "Paper Emote",
+      "reason": "download-failed",
+      "sourceFileName": "5-custom.lua",
+      "tried": [
+        "Paper Emote.png",
+        "Paper_Emote.png",
+        "Paper Emote.webp",
+        "Paper_Emote.webp"
+      ]
+    },
+    {
+      "id": 610,
+      "name": "FICSMAS Logo",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "FICSMAS Logo.png",
+        "FICSMAS_Logo.png",
+        "FICSMAS Logo.webp",
+        "FICSMAS_Logo.webp"
+      ]
+    },
+    {
+      "id": 611,
+      "name": "FICSMAS Snowflake",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "FICSMAS Snowflake.png",
+        "FICSMAS_Snowflake.png",
+        "FICSMAS Snowflake.webp",
+        "FICSMAS_Snowflake.webp"
+      ]
+    },
+    {
+      "id": 612,
+      "name": "FICSMAS Checkmark Snowflakes",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "FICSMAS Checkmark Snowflakes.png",
+        "FICSMAS_Checkmark_Snowflakes.png",
+        "FICSMAS Checkmark Snowflakes.webp",
+        "FICSMAS_Checkmark_Snowflakes.webp"
+      ]
+    },
+    {
+      "id": 613,
+      "name": "FICSMAS Wrapping Paper",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "FICSMAS Wrapping Paper.png",
+        "FICSMAS_Wrapping_Paper.png",
+        "FICSMAS Wrapping Paper.webp",
+        "FICSMAS_Wrapping_Paper.webp"
+      ]
+    },
+    {
+      "id": 614,
+      "name": "FICSMAS Berries",
+      "reason": "download-failed",
+      "sourceFileName": "5-custom.lua",
+      "tried": [
+        "FICSMAS Berries.png",
+        "FICSMAS_Berries.png",
+        "FICSMAS Berries.webp",
+        "FICSMAS_Berries.webp"
+      ]
+    },
+    {
+      "id": 615,
+      "name": "FICSMAS Checkmark",
+      "reason": "download-failed",
+      "sourceFileName": "5-custom.lua",
+      "tried": [
+        "FICSMAS Checkmark.png",
+        "FICSMAS_Checkmark.png",
+        "FICSMAS Checkmark.webp",
+        "FICSMAS_Checkmark.webp"
+      ]
+    },
+    {
+      "id": 616,
+      "name": "FICSMAS Checkit",
+      "reason": "download-failed",
+      "sourceFileName": "5-custom.lua",
+      "tried": [
+        "FICSMAS Checkit.png",
+        "FICSMAS_Checkit.png",
+        "FICSMAS Checkit.webp",
+        "FICSMAS_Checkit.webp"
+      ]
+    },
+    {
+      "id": 618,
+      "name": "FICSMAS Ugly Sweater",
+      "reason": "download-failed",
+      "sourceFileName": "4-material.lua",
+      "tried": [
+        "FICSMAS Ugly Sweater.png",
+        "FICSMAS_Ugly_Sweater.png",
+        "FICSMAS Ugly Sweater.webp",
+        "FICSMAS_Ugly_Sweater.webp"
+      ]
+    },
+    {
+      "id": 622,
+      "name": "Foundation (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (4 m).png",
+        "Foundation_(4_m).png",
+        "Foundation (4 m).webp",
+        "Foundation_(4_m).webp"
+      ]
+    },
+    {
+      "id": 621,
+      "name": "Foundation (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (2 m).png",
+        "Foundation_(2_m).png",
+        "Foundation (2 m).webp",
+        "Foundation_(2_m).webp"
+      ]
+    },
+    {
+      "id": 620,
+      "name": "Foundation (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (1 m).png",
+        "Foundation_(1_m).png",
+        "Foundation (1 m).webp",
+        "Foundation_(1_m).webp"
+      ]
+    },
+    {
+      "id": 623,
+      "name": "Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (1 m).png",
+        "Ramp_(1_m).png",
+        "Ramp (1 m).webp",
+        "Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 624,
+      "name": "Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (2 m).png",
+        "Ramp_(2_m).png",
+        "Ramp (2 m).webp",
+        "Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 625,
+      "name": "Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Ramp (4 m).png",
+        "Ramp_(4_m).png",
+        "Ramp (4 m).webp",
+        "Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 628,
+      "name": "Down Corner Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (4 m).png",
+        "Down_Corner_Ramp_(4_m).png",
+        "Down Corner Ramp (4 m).webp",
+        "Down_Corner_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 626,
+      "name": "Down Corner Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (1 m).png",
+        "Down_Corner_Ramp_(1_m).png",
+        "Down Corner Ramp (1 m).webp",
+        "Down_Corner_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 627,
+      "name": "Down Corner Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Down Corner Ramp (2 m).png",
+        "Down_Corner_Ramp_(2_m).png",
+        "Down Corner Ramp (2 m).webp",
+        "Down_Corner_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 629,
+      "name": "Up Corner Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (1 m).png",
+        "Up_Corner_Ramp_(1_m).png",
+        "Up Corner Ramp (1 m).webp",
+        "Up_Corner_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 631,
+      "name": "Up Corner Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (4 m).png",
+        "Up_Corner_Ramp_(4_m).png",
+        "Up Corner Ramp (4 m).webp",
+        "Up_Corner_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 630,
+      "name": "Up Corner Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Up Corner Ramp (2 m).png",
+        "Up_Corner_Ramp_(2_m).png",
+        "Up Corner Ramp (2 m).webp",
+        "Up_Corner_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 633,
+      "name": "Double Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (4 m).png",
+        "Double_Ramp_(4_m).png",
+        "Double Ramp (4 m).webp",
+        "Double_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 632,
+      "name": "Double Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (2 m).png",
+        "Double_Ramp_(2_m).png",
+        "Double Ramp (2 m).webp",
+        "Double_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 634,
+      "name": "Double Ramp (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Double Ramp (8 m).png",
+        "Double_Ramp_(8_m).png",
+        "Double Ramp (8 m).webp",
+        "Double_Ramp_(8_m).webp"
+      ]
+    },
+    {
+      "id": 635,
+      "name": "Inverted Down Corner (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (1 m).png",
+        "Inverted_Down_Corner_(1_m).png",
+        "Inverted Down Corner (1 m).webp",
+        "Inverted_Down_Corner_(1_m).webp"
+      ]
+    },
+    {
+      "id": 636,
+      "name": "Inverted Down Corner (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (2 m).png",
+        "Inverted_Down_Corner_(2_m).png",
+        "Inverted Down Corner (2 m).webp",
+        "Inverted_Down_Corner_(2_m).webp"
+      ]
+    },
+    {
+      "id": 637,
+      "name": "Inverted Down Corner (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Down Corner (4 m).png",
+        "Inverted_Down_Corner_(4_m).png",
+        "Inverted Down Corner (4 m).webp",
+        "Inverted_Down_Corner_(4_m).webp"
+      ]
+    },
+    {
+      "id": 638,
+      "name": "Inverted Up Corner (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (1 m).png",
+        "Inverted_Up_Corner_(1_m).png",
+        "Inverted Up Corner (1 m).webp",
+        "Inverted_Up_Corner_(1_m).webp"
+      ]
+    },
+    {
+      "id": 639,
+      "name": "Inverted Up Corner (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (2 m).png",
+        "Inverted_Up_Corner_(2_m).png",
+        "Inverted Up Corner (2 m).webp",
+        "Inverted_Up_Corner_(2_m).webp"
+      ]
+    },
+    {
+      "id": 640,
+      "name": "Inverted Up Corner (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Up Corner (4 m).png",
+        "Inverted_Up_Corner_(4_m).png",
+        "Inverted Up Corner (4 m).webp",
+        "Inverted_Up_Corner_(4_m).webp"
+      ]
+    },
+    {
+      "id": 644,
+      "name": "Recycle",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Recycle.png",
+        "Recycle.webp"
+      ]
+    },
+    {
+      "id": 645,
+      "name": "Trash",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Trash.png",
+        "Trash.webp"
+      ]
+    },
+    {
+      "id": 641,
+      "name": "Inverted Ramp (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (1 m).png",
+        "Inverted_Ramp_(1_m).png",
+        "Inverted Ramp (1 m).webp",
+        "Inverted_Ramp_(1_m).webp"
+      ]
+    },
+    {
+      "id": 642,
+      "name": "Inverted Ramp (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (2 m).png",
+        "Inverted_Ramp_(2_m).png",
+        "Inverted Ramp (2 m).webp",
+        "Inverted_Ramp_(2_m).webp"
+      ]
+    },
+    {
+      "id": 643,
+      "name": "Inverted Ramp (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp (4 m).png",
+        "Inverted_Ramp_(4_m).png",
+        "Inverted Ramp (4 m).webp",
+        "Inverted_Ramp_(4_m).webp"
+      ]
+    },
+    {
+      "id": 650,
+      "name": "Biomass",
+      "reason": "download-failed",
+      "sourceFileName": "6-map_stamp.lua",
+      "tried": [
+        "Biomass.png",
+        "Biomass.webp"
+      ]
+    },
+    {
+      "id": 654,
+      "name": "Creature",
+      "reason": "download-failed",
+      "sourceFileName": "6-map_stamp.lua",
+      "tried": [
+        "Creature.png",
+        "Creature.webp"
+      ]
+    },
+    {
+      "id": 651,
+      "name": "Cave",
+      "reason": "download-failed",
+      "sourceFileName": "6-map_stamp.lua",
+      "tried": [
+        "Cave.png",
+        "Cave.webp"
+      ]
+    },
+    {
+      "id": 652,
+      "name": "Crash",
+      "reason": "download-failed",
+      "sourceFileName": "6-map_stamp.lua",
+      "tried": [
+        "Crash.png",
+        "Crash.webp"
+      ]
+    },
+    {
+      "id": 657,
+      "name": "Fluids",
+      "reason": "download-failed",
+      "sourceFileName": "6-map_stamp.lua",
+      "tried": [
+        "Fluids.png",
+        "Fluids.webp"
+      ]
+    },
+    {
+      "id": 660,
+      "name": "Rock",
+      "reason": "download-failed",
+      "sourceFileName": "6-map_stamp.lua",
+      "tried": [
+        "Rock.png",
+        "Rock.webp"
+      ]
+    },
+    {
+      "id": 663,
+      "name": "Slug",
+      "reason": "download-failed",
+      "sourceFileName": "6-map_stamp.lua",
+      "tried": [
+        "Slug.png",
+        "Slug.webp"
+      ]
+    },
+    {
+      "id": 661,
+      "name": "Warning",
+      "reason": "download-failed",
+      "sourceFileName": "6-map_stamp.lua",
+      "tried": [
+        "Warning.png",
+        "Warning.webp"
+      ]
+    },
+    {
+      "id": 662,
+      "name": "Fruit",
+      "reason": "download-failed",
+      "sourceFileName": "6-map_stamp.lua",
+      "tried": [
+        "Fruit.png",
+        "Fruit.webp"
+      ]
+    },
+    {
+      "id": 656,
+      "name": "Question Mark",
+      "reason": "download-failed",
+      "sourceFileName": "6-map_stamp.lua",
+      "tried": [
+        "Question Mark.png",
+        "Question_Mark.png",
+        "Question Mark.webp",
+        "Question_Mark.webp"
+      ]
+    },
+    {
+      "id": 667,
+      "name": "Tilted Concave Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Concave Wall (8 m).png",
+        "Tilted_Concave_Wall_(8_m).png",
+        "Tilted Concave Wall (8 m).webp",
+        "Tilted_Concave_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 666,
+      "name": "Tilted Concave Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Concave Wall (4 m).png",
+        "Tilted_Concave_Wall_(4_m).png",
+        "Tilted Concave Wall (4 m).webp",
+        "Tilted_Concave_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 669,
+      "name": "Tilted Concave Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Concave Wall (8 m).png",
+        "Tilted_Concave_Wall_(8_m).png",
+        "Tilted Concave Wall (8 m).webp",
+        "Tilted_Concave_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 670,
+      "name": "Tilted Concave Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Concave Wall (4 m).png",
+        "Tilted_Concave_Wall_(4_m).png",
+        "Tilted Concave Wall (4 m).webp",
+        "Tilted_Concave_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 668,
+      "name": "Tilted Concave Wall (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Concave Wall (4 m).png",
+        "Tilted_Concave_Wall_(4_m).png",
+        "Tilted Concave Wall (4 m).webp",
+        "Tilted_Concave_Wall_(4_m).webp"
+      ]
+    },
+    {
+      "id": 671,
+      "name": "Tilted Concave Wall (8 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Tilted Concave Wall (8 m).png",
+        "Tilted_Concave_Wall_(8_m).png",
+        "Tilted Concave Wall (8 m).webp",
+        "Tilted_Concave_Wall_(8_m).webp"
+      ]
+    },
+    {
+      "id": 679,
+      "name": "Homing Rifle Ammo",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Homing Rifle Ammo.png",
+        "Homing_Rifle_Ammo.png",
+        "Homing Rifle Ammo.webp",
+        "Homing_Rifle_Ammo.webp"
+      ]
+    },
+    {
+      "id": 690,
+      "name": "Half Foundation (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (2 m).png",
+        "Half_Foundation_(2_m).png",
+        "Half Foundation (2 m).webp",
+        "Half_Foundation_(2_m).webp"
+      ]
+    },
+    {
+      "id": 688,
+      "name": "Inverted Outer Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Outer Corner Quarter Pipe.png",
+        "Inverted_Outer_Corner_Quarter_Pipe.png",
+        "Inverted Outer Corner Quarter Pipe.webp",
+        "Inverted_Outer_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 689,
+      "name": "Half Foundation (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (1 m).png",
+        "Half_Foundation_(1_m).png",
+        "Half Foundation (1 m).webp",
+        "Half_Foundation_(1_m).webp"
+      ]
+    },
+    {
+      "id": 682,
+      "name": "Pulse Nobelisk",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Pulse Nobelisk.png",
+        "Pulse_Nobelisk.png",
+        "Pulse Nobelisk.webp",
+        "Pulse_Nobelisk.webp"
+      ]
+    },
+    {
+      "id": 691,
+      "name": "Half Foundation (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (4 m).png",
+        "Half_Foundation_(4_m).png",
+        "Half Foundation (4 m).webp",
+        "Half_Foundation_(4_m).webp"
+      ]
+    },
+    {
+      "id": 695,
+      "name": "Outer Corner Extension (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (1 m).png",
+        "Outer_Corner_Extension_(1_m).png",
+        "Outer Corner Extension (1 m).webp",
+        "Outer_Corner_Extension_(1_m).webp"
+      ]
+    },
+    {
+      "id": 693,
+      "name": "Inner Corner Extension (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (2 m).png",
+        "Inner_Corner_Extension_(2_m).png",
+        "Inner Corner Extension (2 m).webp",
+        "Inner_Corner_Extension_(2_m).webp"
+      ]
+    },
+    {
+      "id": 692,
+      "name": "Inner Corner Extension (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (1 m).png",
+        "Inner_Corner_Extension_(1_m).png",
+        "Inner Corner Extension (1 m).webp",
+        "Inner_Corner_Extension_(1_m).webp"
+      ]
+    },
+    {
+      "id": 694,
+      "name": "Inner Corner Extension (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (4 m).png",
+        "Inner_Corner_Extension_(4_m).png",
+        "Inner Corner Extension (4 m).webp",
+        "Inner_Corner_Extension_(4_m).webp"
+      ]
+    },
+    {
+      "id": 696,
+      "name": "Outer Corner Extension (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (2 m).png",
+        "Outer_Corner_Extension_(2_m).png",
+        "Outer Corner Extension (2 m).webp",
+        "Outer_Corner_Extension_(2_m).webp"
+      ]
+    },
+    {
+      "id": 697,
+      "name": "Outer Corner Extension (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (4 m).png",
+        "Outer_Corner_Extension_(4_m).png",
+        "Outer Corner Extension (4 m).webp",
+        "Outer_Corner_Extension_(4_m).webp"
+      ]
+    },
+    {
+      "id": 698,
+      "name": "Inner Corner Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (1 m).png",
+        "Inner_Corner_Roof_(1_m).png",
+        "Inner Corner Roof (1 m).webp",
+        "Inner_Corner_Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 700,
+      "name": "Inner Corner Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (4 m).png",
+        "Inner_Corner_Roof_(4_m).png",
+        "Inner Corner Roof (4 m).webp",
+        "Inner_Corner_Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 699,
+      "name": "Inner Corner Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (2 m).png",
+        "Inner_Corner_Roof_(2_m).png",
+        "Inner Corner Roof (2 m).webp",
+        "Inner_Corner_Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 701,
+      "name": "Outer Corner Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (1 m).png",
+        "Outer_Corner_Roof_(1_m).png",
+        "Outer Corner Roof (1 m).webp",
+        "Outer_Corner_Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 702,
+      "name": "Outer Corner Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (2 m).png",
+        "Outer_Corner_Roof_(2_m).png",
+        "Outer Corner Roof (2 m).webp",
+        "Outer_Corner_Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 703,
+      "name": "Outer Corner Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (4 m).png",
+        "Outer_Corner_Roof_(4_m).png",
+        "Outer Corner Roof (4 m).webp",
+        "Outer_Corner_Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 704,
+      "name": "Inner Corner Extension (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (1 m).png",
+        "Inner_Corner_Extension_(1_m).png",
+        "Inner Corner Extension (1 m).webp",
+        "Inner_Corner_Extension_(1_m).webp"
+      ]
+    },
+    {
+      "id": 708,
+      "name": "Outer Corner Extension (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (2 m).png",
+        "Outer_Corner_Extension_(2_m).png",
+        "Outer Corner Extension (2 m).webp",
+        "Outer_Corner_Extension_(2_m).webp"
+      ]
+    },
+    {
+      "id": 706,
+      "name": "Inner Corner Extension (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (4 m).png",
+        "Inner_Corner_Extension_(4_m).png",
+        "Inner Corner Extension (4 m).webp",
+        "Inner_Corner_Extension_(4_m).webp"
+      ]
+    },
+    {
+      "id": 705,
+      "name": "Inner Corner Extension (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (2 m).png",
+        "Inner_Corner_Extension_(2_m).png",
+        "Inner Corner Extension (2 m).webp",
+        "Inner_Corner_Extension_(2_m).webp"
+      ]
+    },
+    {
+      "id": 707,
+      "name": "Outer Corner Extension (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (1 m).png",
+        "Outer_Corner_Extension_(1_m).png",
+        "Outer Corner Extension (1 m).webp",
+        "Outer_Corner_Extension_(1_m).webp"
+      ]
+    },
+    {
+      "id": 709,
+      "name": "Outer Corner Extension (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (4 m).png",
+        "Outer_Corner_Extension_(4_m).png",
+        "Outer Corner Extension (4 m).webp",
+        "Outer_Corner_Extension_(4_m).webp"
+      ]
+    },
+    {
+      "id": 710,
+      "name": "Inner Corner Extension (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (1 m).png",
+        "Inner_Corner_Extension_(1_m).png",
+        "Inner Corner Extension (1 m).webp",
+        "Inner_Corner_Extension_(1_m).webp"
+      ]
+    },
+    {
+      "id": 713,
+      "name": "Outer Corner Extension (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (1 m).png",
+        "Outer_Corner_Extension_(1_m).png",
+        "Outer Corner Extension (1 m).webp",
+        "Outer_Corner_Extension_(1_m).webp"
+      ]
+    },
+    {
+      "id": 711,
+      "name": "Inner Corner Extension (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (2 m).png",
+        "Inner_Corner_Extension_(2_m).png",
+        "Inner Corner Extension (2 m).webp",
+        "Inner_Corner_Extension_(2_m).webp"
+      ]
+    },
+    {
+      "id": 712,
+      "name": "Inner Corner Extension (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (4 m).png",
+        "Inner_Corner_Extension_(4_m).png",
+        "Inner Corner Extension (4 m).webp",
+        "Inner_Corner_Extension_(4_m).webp"
+      ]
+    },
+    {
+      "id": 714,
+      "name": "Outer Corner Extension (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (2 m).png",
+        "Outer_Corner_Extension_(2_m).png",
+        "Outer Corner Extension (2 m).webp",
+        "Outer_Corner_Extension_(2_m).webp"
+      ]
+    },
+    {
+      "id": 715,
+      "name": "Outer Corner Extension (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (4 m).png",
+        "Outer_Corner_Extension_(4_m).png",
+        "Outer Corner Extension (4 m).webp",
+        "Outer_Corner_Extension_(4_m).webp"
+      ]
+    },
+    {
+      "id": 716,
+      "name": "Inner Corner Extension (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (1 m).png",
+        "Inner_Corner_Extension_(1_m).png",
+        "Inner Corner Extension (1 m).webp",
+        "Inner_Corner_Extension_(1_m).webp"
+      ]
+    },
+    {
+      "id": 719,
+      "name": "Outer Corner Extension (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (1 m).png",
+        "Outer_Corner_Extension_(1_m).png",
+        "Outer Corner Extension (1 m).webp",
+        "Outer_Corner_Extension_(1_m).webp"
+      ]
+    },
+    {
+      "id": 718,
+      "name": "Inner Corner Extension (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (4 m).png",
+        "Inner_Corner_Extension_(4_m).png",
+        "Inner Corner Extension (4 m).webp",
+        "Inner_Corner_Extension_(4_m).webp"
+      ]
+    },
+    {
+      "id": 717,
+      "name": "Inner Corner Extension (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (2 m).png",
+        "Inner_Corner_Extension_(2_m).png",
+        "Inner Corner Extension (2 m).webp",
+        "Inner_Corner_Extension_(2_m).webp"
+      ]
+    },
+    {
+      "id": 720,
+      "name": "Outer Corner Extension (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (2 m).png",
+        "Outer_Corner_Extension_(2_m).png",
+        "Outer Corner Extension (2 m).webp",
+        "Outer_Corner_Extension_(2_m).webp"
+      ]
+    },
+    {
+      "id": 721,
+      "name": "Outer Corner Extension (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (4 m).png",
+        "Outer_Corner_Extension_(4_m).png",
+        "Outer Corner Extension (4 m).webp",
+        "Outer_Corner_Extension_(4_m).webp"
+      ]
+    },
+    {
+      "id": 722,
+      "name": "Inner Corner Extension (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (1 m).png",
+        "Inner_Corner_Extension_(1_m).png",
+        "Inner Corner Extension (1 m).webp",
+        "Inner_Corner_Extension_(1_m).webp"
+      ]
+    },
+    {
+      "id": 725,
+      "name": "Outer Corner Extension (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (1 m).png",
+        "Outer_Corner_Extension_(1_m).png",
+        "Outer Corner Extension (1 m).webp",
+        "Outer_Corner_Extension_(1_m).webp"
+      ]
+    },
+    {
+      "id": 726,
+      "name": "Outer Corner Extension (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (2 m).png",
+        "Outer_Corner_Extension_(2_m).png",
+        "Outer Corner Extension (2 m).webp",
+        "Outer_Corner_Extension_(2_m).webp"
+      ]
+    },
+    {
+      "id": 723,
+      "name": "Inner Corner Extension (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (2 m).png",
+        "Inner_Corner_Extension_(2_m).png",
+        "Inner Corner Extension (2 m).webp",
+        "Inner_Corner_Extension_(2_m).webp"
+      ]
+    },
+    {
+      "id": 724,
+      "name": "Inner Corner Extension (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Extension (4 m).png",
+        "Inner_Corner_Extension_(4_m).png",
+        "Inner Corner Extension (4 m).webp",
+        "Inner_Corner_Extension_(4_m).webp"
+      ]
+    },
+    {
+      "id": 727,
+      "name": "Outer Corner Extension (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Extension (4 m).png",
+        "Outer_Corner_Extension_(4_m).png",
+        "Outer Corner Extension (4 m).webp",
+        "Outer_Corner_Extension_(4_m).webp"
+      ]
+    },
+    {
+      "id": 728,
+      "name": "Half Foundation (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (1 m).png",
+        "Half_Foundation_(1_m).png",
+        "Half Foundation (1 m).webp",
+        "Half_Foundation_(1_m).webp"
+      ]
+    },
+    {
+      "id": 729,
+      "name": "Half Foundation (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (2 m).png",
+        "Half_Foundation_(2_m).png",
+        "Half Foundation (2 m).webp",
+        "Half_Foundation_(2_m).webp"
+      ]
+    },
+    {
+      "id": 730,
+      "name": "Half Foundation (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (4 m).png",
+        "Half_Foundation_(4_m).png",
+        "Half Foundation (4 m).webp",
+        "Half_Foundation_(4_m).webp"
+      ]
+    },
+    {
+      "id": 731,
+      "name": "Half Foundation (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (1 m).png",
+        "Half_Foundation_(1_m).png",
+        "Half Foundation (1 m).webp",
+        "Half_Foundation_(1_m).webp"
+      ]
+    },
+    {
+      "id": 732,
+      "name": "Half Foundation (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (2 m).png",
+        "Half_Foundation_(2_m).png",
+        "Half Foundation (2 m).webp",
+        "Half_Foundation_(2_m).webp"
+      ]
+    },
+    {
+      "id": 733,
+      "name": "Half Foundation (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (4 m).png",
+        "Half_Foundation_(4_m).png",
+        "Half Foundation (4 m).webp",
+        "Half_Foundation_(4_m).webp"
+      ]
+    },
+    {
+      "id": 734,
+      "name": "Half Foundation (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (1 m).png",
+        "Half_Foundation_(1_m).png",
+        "Half Foundation (1 m).webp",
+        "Half_Foundation_(1_m).webp"
+      ]
+    },
+    {
+      "id": 737,
+      "name": "Half Foundation (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (1 m).png",
+        "Half_Foundation_(1_m).png",
+        "Half Foundation (1 m).webp",
+        "Half_Foundation_(1_m).webp"
+      ]
+    },
+    {
+      "id": 735,
+      "name": "Half Foundation (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (2 m).png",
+        "Half_Foundation_(2_m).png",
+        "Half Foundation (2 m).webp",
+        "Half_Foundation_(2_m).webp"
+      ]
+    },
+    {
+      "id": 736,
+      "name": "Half Foundation (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (4 m).png",
+        "Half_Foundation_(4_m).png",
+        "Half Foundation (4 m).webp",
+        "Half_Foundation_(4_m).webp"
+      ]
+    },
+    {
+      "id": 738,
+      "name": "Half Foundation (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (2 m).png",
+        "Half_Foundation_(2_m).png",
+        "Half Foundation (2 m).webp",
+        "Half_Foundation_(2_m).webp"
+      ]
+    },
+    {
+      "id": 739,
+      "name": "Half Foundation (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Half Foundation (4 m).png",
+        "Half_Foundation_(4_m).png",
+        "Half Foundation (4 m).webp",
+        "Half_Foundation_(4_m).webp"
+      ]
+    },
+    {
+      "id": 740,
+      "name": "Inverted Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Quarter Pipe.png",
+        "Inverted_Quarter_Pipe.png",
+        "Inverted Quarter Pipe.webp",
+        "Inverted_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 744,
+      "name": "Inner Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Quarter Pipe.png",
+        "Inner_Corner_Quarter_Pipe.png",
+        "Inner Corner Quarter Pipe.webp",
+        "Inner_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 742,
+      "name": "Inverted Outer Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Outer Corner Quarter Pipe.png",
+        "Inverted_Outer_Corner_Quarter_Pipe.png",
+        "Inverted Outer Corner Quarter Pipe.webp",
+        "Inverted_Outer_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 745,
+      "name": "Outer Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Quarter Pipe.png",
+        "Outer_Corner_Quarter_Pipe.png",
+        "Outer Corner Quarter Pipe.webp",
+        "Outer_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 741,
+      "name": "Inverted Inner Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Inner Corner Quarter Pipe.png",
+        "Inverted_Inner_Corner_Quarter_Pipe.png",
+        "Inverted Inner Corner Quarter Pipe.webp",
+        "Inverted_Inner_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 747,
+      "name": "Inverted Inner Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Inner Corner Quarter Pipe.png",
+        "Inverted_Inner_Corner_Quarter_Pipe.png",
+        "Inverted Inner Corner Quarter Pipe.webp",
+        "Inverted_Inner_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 748,
+      "name": "Inverted Outer Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Outer Corner Quarter Pipe.png",
+        "Inverted_Outer_Corner_Quarter_Pipe.png",
+        "Inverted Outer Corner Quarter Pipe.webp",
+        "Inverted_Outer_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 751,
+      "name": "Outer Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Quarter Pipe.png",
+        "Outer_Corner_Quarter_Pipe.png",
+        "Outer Corner Quarter Pipe.webp",
+        "Outer_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 753,
+      "name": "Inverted Inner Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Inner Corner Quarter Pipe.png",
+        "Inverted_Inner_Corner_Quarter_Pipe.png",
+        "Inverted Inner Corner Quarter Pipe.webp",
+        "Inverted_Inner_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 754,
+      "name": "Inverted Outer Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Outer Corner Quarter Pipe.png",
+        "Inverted_Outer_Corner_Quarter_Pipe.png",
+        "Inverted Outer Corner Quarter Pipe.webp",
+        "Inverted_Outer_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 750,
+      "name": "Inner Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Quarter Pipe.png",
+        "Inner_Corner_Quarter_Pipe.png",
+        "Inner Corner Quarter Pipe.webp",
+        "Inner_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 756,
+      "name": "Inner Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Quarter Pipe.png",
+        "Inner_Corner_Quarter_Pipe.png",
+        "Inner Corner Quarter Pipe.webp",
+        "Inner_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 757,
+      "name": "Outer Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Quarter Pipe.png",
+        "Outer_Corner_Quarter_Pipe.png",
+        "Outer Corner Quarter Pipe.webp",
+        "Outer_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 760,
+      "name": "Inverted Outer Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Outer Corner Quarter Pipe.png",
+        "Inverted_Outer_Corner_Quarter_Pipe.png",
+        "Inverted Outer Corner Quarter Pipe.webp",
+        "Inverted_Outer_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 758,
+      "name": "Inverted Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Quarter Pipe.png",
+        "Inverted_Quarter_Pipe.png",
+        "Inverted Quarter Pipe.webp",
+        "Inverted_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 759,
+      "name": "Inverted Inner Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Inner Corner Quarter Pipe.png",
+        "Inverted_Inner_Corner_Quarter_Pipe.png",
+        "Inverted Inner Corner Quarter Pipe.webp",
+        "Inverted_Inner_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 762,
+      "name": "Inner Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Quarter Pipe.png",
+        "Inner_Corner_Quarter_Pipe.png",
+        "Inner Corner Quarter Pipe.webp",
+        "Inner_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 763,
+      "name": "Outer Corner Quarter Pipe",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Quarter Pipe.png",
+        "Outer_Corner_Quarter_Pipe.png",
+        "Outer Corner Quarter Pipe.webp",
+        "Outer_Corner_Quarter_Pipe.webp"
+      ]
+    },
+    {
+      "id": 764,
+      "name": "Inner Corner Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (1 m).png",
+        "Inner_Corner_Roof_(1_m).png",
+        "Inner Corner Roof (1 m).webp",
+        "Inner_Corner_Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 765,
+      "name": "Inner Corner Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (2 m).png",
+        "Inner_Corner_Roof_(2_m).png",
+        "Inner Corner Roof (2 m).webp",
+        "Inner_Corner_Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 766,
+      "name": "Inner Corner Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (4 m).png",
+        "Inner_Corner_Roof_(4_m).png",
+        "Inner Corner Roof (4 m).webp",
+        "Inner_Corner_Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 767,
+      "name": "Outer Corner Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (1 m).png",
+        "Outer_Corner_Roof_(1_m).png",
+        "Outer Corner Roof (1 m).webp",
+        "Outer_Corner_Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 768,
+      "name": "Outer Corner Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (2 m).png",
+        "Outer_Corner_Roof_(2_m).png",
+        "Outer Corner Roof (2 m).webp",
+        "Outer_Corner_Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 769,
+      "name": "Outer Corner Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (4 m).png",
+        "Outer_Corner_Roof_(4_m).png",
+        "Outer Corner Roof (4 m).webp",
+        "Outer_Corner_Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 770,
+      "name": "Inner Corner Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (1 m).png",
+        "Inner_Corner_Roof_(1_m).png",
+        "Inner Corner Roof (1 m).webp",
+        "Inner_Corner_Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 771,
+      "name": "Inner Corner Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (2 m).png",
+        "Inner_Corner_Roof_(2_m).png",
+        "Inner Corner Roof (2 m).webp",
+        "Inner_Corner_Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 772,
+      "name": "Inner Corner Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (4 m).png",
+        "Inner_Corner_Roof_(4_m).png",
+        "Inner Corner Roof (4 m).webp",
+        "Inner_Corner_Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 774,
+      "name": "Outer Corner Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (2 m).png",
+        "Outer_Corner_Roof_(2_m).png",
+        "Outer Corner Roof (2 m).webp",
+        "Outer_Corner_Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 773,
+      "name": "Outer Corner Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (1 m).png",
+        "Outer_Corner_Roof_(1_m).png",
+        "Outer Corner Roof (1 m).webp",
+        "Outer_Corner_Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 775,
+      "name": "Outer Corner Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (4 m).png",
+        "Outer_Corner_Roof_(4_m).png",
+        "Outer Corner Roof (4 m).webp",
+        "Outer_Corner_Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 776,
+      "name": "Inner Corner Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (1 m).png",
+        "Inner_Corner_Roof_(1_m).png",
+        "Inner Corner Roof (1 m).webp",
+        "Inner_Corner_Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 777,
+      "name": "Inner Corner Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (2 m).png",
+        "Inner_Corner_Roof_(2_m).png",
+        "Inner Corner Roof (2 m).webp",
+        "Inner_Corner_Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 778,
+      "name": "Inner Corner Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inner Corner Roof (4 m).png",
+        "Inner_Corner_Roof_(4_m).png",
+        "Inner Corner Roof (4 m).webp",
+        "Inner_Corner_Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 779,
+      "name": "Outer Corner Roof (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (1 m).png",
+        "Outer_Corner_Roof_(1_m).png",
+        "Outer Corner Roof (1 m).webp",
+        "Outer_Corner_Roof_(1_m).webp"
+      ]
+    },
+    {
+      "id": 780,
+      "name": "Outer Corner Roof (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (2 m).png",
+        "Outer_Corner_Roof_(2_m).png",
+        "Outer Corner Roof (2 m).webp",
+        "Outer_Corner_Roof_(2_m).webp"
+      ]
+    },
+    {
+      "id": 781,
+      "name": "Outer Corner Roof (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Outer Corner Roof (4 m).png",
+        "Outer_Corner_Roof_(4_m).png",
+        "Outer Corner Roof (4 m).webp",
+        "Outer_Corner_Roof_(4_m).webp"
+      ]
+    },
+    {
+      "id": 796,
+      "name": "Converter",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Converter.png",
+        "Converter.webp"
+      ]
+    },
+    {
+      "id": 782,
+      "name": "Question Mark",
+      "reason": "download-failed",
+      "sourceFileName": "3-monochrome.lua",
+      "tried": [
+        "Question Mark.png",
+        "Question_Mark.png",
+        "Question Mark.webp",
+        "Question_Mark.webp"
+      ]
+    },
+    {
+      "id": 789,
+      "name": "Inverted Ramp Wall (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Inverted Ramp Wall (2 m).png",
+        "Inverted_Ramp_Wall_(2_m).png",
+        "Inverted Ramp Wall (2 m).webp",
+        "Inverted_Ramp_Wall_(2_m).webp"
+      ]
+    },
+    {
+      "id": 790,
+      "name": "Walkway Corner",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Walkway Corner.png",
+        "Walkway_Corner.png",
+        "Walkway Corner.webp",
+        "Walkway_Corner.webp"
+      ]
+    },
+    {
+      "id": 793,
+      "name": "Conveyor Belt Mk.6",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Conveyor Belt Mk.6.png",
+        "Conveyor_Belt_Mk.6.png",
+        "Conveyor Belt Mk.6.webp",
+        "Conveyor_Belt_Mk.6.webp"
+      ]
+    },
+    {
+      "id": 810,
+      "name": "Diamonds",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Diamonds.png",
+        "Diamonds.webp"
+      ]
+    },
+    {
+      "id": 804,
+      "name": "Dark Matter Crystal",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Dark Matter Crystal.png",
+        "Dark_Matter_Crystal.png",
+        "Dark Matter Crystal.webp",
+        "Dark_Matter_Crystal.webp"
+      ]
+    },
+    {
+      "id": 817,
+      "name": "Somersloop",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Somersloop.png",
+        "Somersloop.webp"
+      ]
+    },
+    {
+      "id": 807,
+      "name": "Neural-Quantum Processor",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Neural-Quantum Processor.png",
+        "Neural-Quantum_Processor.png",
+        "Neural-Quantum Processor.webp",
+        "Neural-Quantum_Processor.webp"
+      ]
+    },
+    {
+      "id": 816,
+      "name": "Mercer Sphere",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Mercer Sphere.png",
+        "Mercer_Sphere.png",
+        "Mercer Sphere.webp",
+        "Mercer_Sphere.webp"
+      ]
+    },
+    {
+      "id": 819,
+      "name": "Blueprint Designer Mk.3",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Blueprint Designer Mk.3.png",
+        "Blueprint_Designer_Mk.3.png",
+        "Blueprint Designer Mk.3.webp",
+        "Blueprint_Designer_Mk.3.webp"
+      ]
+    },
+    {
+      "id": 822,
+      "name": "Foundation Stairs (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (1 m).png",
+        "Foundation_Stairs_(1_m).png",
+        "Foundation Stairs (1 m).webp",
+        "Foundation_Stairs_(1_m).webp"
+      ]
+    },
+    {
+      "id": 821,
+      "name": "Foundation (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation (2 m).png",
+        "Foundation_(2_m).png",
+        "Foundation (2 m).webp",
+        "Foundation_(2_m).webp"
+      ]
+    },
+    {
+      "id": 824,
+      "name": "Foundation Stairs (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (4 m).png",
+        "Foundation_Stairs_(4_m).png",
+        "Foundation Stairs (4 m).webp",
+        "Foundation_Stairs_(4_m).webp"
+      ]
+    },
+    {
+      "id": 823,
+      "name": "Foundation Stairs (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (2 m).png",
+        "Foundation_Stairs_(2_m).png",
+        "Foundation Stairs (2 m).webp",
+        "Foundation_Stairs_(2_m).webp"
+      ]
+    },
+    {
+      "id": 826,
+      "name": "Foundation Stairs (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (2 m).png",
+        "Foundation_Stairs_(2_m).png",
+        "Foundation Stairs (2 m).webp",
+        "Foundation_Stairs_(2_m).webp"
+      ]
+    },
+    {
+      "id": 828,
+      "name": "Foundation Stairs (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (1 m).png",
+        "Foundation_Stairs_(1_m).png",
+        "Foundation Stairs (1 m).webp",
+        "Foundation_Stairs_(1_m).webp"
+      ]
+    },
+    {
+      "id": 825,
+      "name": "Foundation Stairs (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (1 m).png",
+        "Foundation_Stairs_(1_m).png",
+        "Foundation Stairs (1 m).webp",
+        "Foundation_Stairs_(1_m).webp"
+      ]
+    },
+    {
+      "id": 827,
+      "name": "Foundation Stairs (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (4 m).png",
+        "Foundation_Stairs_(4_m).png",
+        "Foundation Stairs (4 m).webp",
+        "Foundation_Stairs_(4_m).webp"
+      ]
+    },
+    {
+      "id": 830,
+      "name": "Foundation Stairs (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (4 m).png",
+        "Foundation_Stairs_(4_m).png",
+        "Foundation Stairs (4 m).webp",
+        "Foundation_Stairs_(4_m).webp"
+      ]
+    },
+    {
+      "id": 829,
+      "name": "Foundation Stairs (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (2 m).png",
+        "Foundation_Stairs_(2_m).png",
+        "Foundation Stairs (2 m).webp",
+        "Foundation_Stairs_(2_m).webp"
+      ]
+    },
+    {
+      "id": 831,
+      "name": "Foundation Stairs (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (1 m).png",
+        "Foundation_Stairs_(1_m).png",
+        "Foundation Stairs (1 m).webp",
+        "Foundation_Stairs_(1_m).webp"
+      ]
+    },
+    {
+      "id": 832,
+      "name": "Foundation Stairs (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (2 m).png",
+        "Foundation_Stairs_(2_m).png",
+        "Foundation Stairs (2 m).webp",
+        "Foundation_Stairs_(2_m).webp"
+      ]
+    },
+    {
+      "id": 833,
+      "name": "Foundation Stairs (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (4 m).png",
+        "Foundation_Stairs_(4_m).png",
+        "Foundation Stairs (4 m).webp",
+        "Foundation_Stairs_(4_m).webp"
+      ]
+    },
+    {
+      "id": 834,
+      "name": "Foundation Stairs (1 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (1 m).png",
+        "Foundation_Stairs_(1_m).png",
+        "Foundation Stairs (1 m).webp",
+        "Foundation_Stairs_(1_m).webp"
+      ]
+    },
+    {
+      "id": 835,
+      "name": "Foundation Stairs (2 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (2 m).png",
+        "Foundation_Stairs_(2_m).png",
+        "Foundation Stairs (2 m).webp",
+        "Foundation_Stairs_(2_m).webp"
+      ]
+    },
+    {
+      "id": 836,
+      "name": "Foundation Stairs (4 m)",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Foundation Stairs (4 m).png",
+        "Foundation_Stairs_(4_m).png",
+        "Foundation Stairs (4 m).webp",
+        "Foundation_Stairs_(4_m).webp"
+      ]
+    },
+    {
+      "id": 848,
+      "name": "Fuel",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Fuel.png",
+        "Fuel.webp"
+      ]
+    },
+    {
+      "id": 850,
+      "name": "Supercomputer",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Supercomputer.png",
+        "Supercomputer.webp"
+      ]
+    },
+    {
+      "id": 839,
+      "name": "Angled Frame Window",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Angled Frame Window.png",
+        "Angled_Frame_Window.png",
+        "Angled Frame Window.webp",
+        "Angled_Frame_Window.webp"
+      ]
+    },
+    {
+      "id": 842,
+      "name": "Low Barrier",
+      "reason": "download-failed",
+      "sourceFileName": "0-building.lua",
+      "tried": [
+        "Low Barrier.png",
+        "Low_Barrier.png",
+        "Low Barrier.webp",
+        "Low_Barrier.webp"
+      ]
+    },
+    {
+      "id": 845,
+      "name": "Dark Matter Residue",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Dark Matter Residue.png",
+        "Dark_Matter_Residue.png",
+        "Dark Matter Residue.webp",
+        "Dark_Matter_Residue.webp"
+      ]
+    },
+    {
+      "id": 858,
+      "name": "Ficsonium",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Ficsonium.png",
+        "Ficsonium.webp"
+      ]
+    },
+    {
+      "id": 854,
+      "name": "Liquid Biofuel",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Liquid Biofuel.png",
+        "Liquid_Biofuel.png",
+        "Liquid Biofuel.webp",
+        "Liquid_Biofuel.webp"
+      ]
+    },
+    {
+      "id": 857,
+      "name": "Dissolved Silica",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Dissolved Silica.png",
+        "Dissolved_Silica.png",
+        "Dissolved Silica.webp",
+        "Dissolved_Silica.webp"
+      ]
+    },
+    {
+      "id": 859,
+      "name": "Ficsonium Fuel Rod",
+      "reason": "download-failed",
+      "sourceFileName": "1-part.lua",
+      "tried": [
+        "Ficsonium Fuel Rod.png",
+        "Ficsonium_Fuel_Rod.png",
+        "Ficsonium Fuel Rod.webp",
+        "Ficsonium_Fuel_Rod.webp"
+      ]
+    }
+  ]
+}

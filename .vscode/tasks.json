@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "vite:dev-debug",
+      "type": "npm",
+      "script": "dev:debug",
+      "isBackground": true,
+      "problemMatcher": [
+        {
+          "pattern": {
+            "regexp": ".",
+            "message": 0
+          },
+          "background": {
+            "activeOnStart": true,
+            "beginsPattern": "^\\s*VITE\\s",
+            "endsPattern": "Local:\\s+http://localhost:5173/"
+          }
+        }
+      ],
+      "presentation": {
+        "reveal": "silent",
+        "panel": "dedicated"
+      }
+    }
+  ]
+}

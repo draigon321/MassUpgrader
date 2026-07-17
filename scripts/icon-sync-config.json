@@ -1,0 +1,21 @@
+{
+  "prefixIdInFileName": true,
+  "includeSortedTypeFiles": [
+    "0-building.lua",
+    "1-part.lua",
+    "2-equipment.lua",
+    "3-monochrome.lua",
+    "4-material.lua",
+    "5-custom.lua",
+    "6-map_stamp.lua"
+  ],
+  "categoryMap": {
+    "0-building.lua": "buildings",
+    "1-part.lua": "parts",
+    "2-equipment.lua": "equipment",
+    "3-monochrome.lua": "other",
+    "4-material.lua": "other",
+    "5-custom.lua": "other",
+    "6-map_stamp.lua": "other"
+  }
+}

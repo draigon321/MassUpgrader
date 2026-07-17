@@ -1,0 +1,35 @@
+{
+    "source":  "SyBozz all-icons.lua",
+    "totalEntries":  853,
+    "missingCount":  7,
+    "missing":  [
+                    {
+                        "id":  15,
+                        "name":  ""
+                    },
+                    {
+                        "id":  17,
+                        "name":  ""
+                    },
+                    {
+                        "id":  30,
+                        "name":  ""
+                    },
+                    {
+                        "id":  50,
+                        "name":  ""
+                    },
+                    {
+                        "id":  57,
+                        "name":  ""
+                    },
+                    {
+                        "id":  58,
+                        "name":  ""
+                    },
+                    {
+                        "id":  310,
+                        "name":  ""
+                    }
+                ]
+}
